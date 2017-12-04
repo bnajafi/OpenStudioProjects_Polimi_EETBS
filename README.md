@@ -4,6 +4,10 @@ This repository includes the files and presentations of group projects on simula
 In order to insert the personal and contact information of members of your group (regular projects), you should fill in the following form:
 [Regular Project Group Information Form](https://goo.gl/forms/98e8UMuYdTv1Jd872)
 
+If instead you would like to ask for a bonus project, you should fill in the following form:
+[Bonus Project Group Information Form](https://goo.gl/forms/0KKdMW16fcznlulF2)
+
+
 
 
 
