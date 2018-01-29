@@ -1,0 +1,536 @@
+ ! The following Location and Design Day data are produced as possible from the indicated data source.
+ ! Wind Speeds follow the indicated design conditions rather than traditional values (6.7 m/s heating, 3.35 m/s cooling)
+ ! No special attempts at re-creating or determining missing data parts (e.g. Wind speed or direction)
+ ! are done.  Therefore, you should look at the data and fill in any incorrect values as you desire.
+  
+ Site:Location,
+  BELEM_BRA Design_Conditions,     !- Location Name
+      -1.38,     !- Latitude {N+ S-}
+     -48.48,     !- Longitude {W- E+}
+      -3.00,     !- Time Zone Relative to GMT {GMT+/-}
+      16.00;     !- Elevation {m}
+ 
+ !  WMO=821930 Time Zone=SAB: (GMT-03:00) Brasilia
+ !  Data Source=ASHRAE 2009 Annual Design Conditions
+ RunPeriodControl:DaylightSavingTime,
+   3rd Sunday in October,    !- StartDate
+   2nd Sunday in February;    !- EndDate
+  
+ ! Using Design Conditions from "Climate Design Data 2009 ASHRAE Handbook"
+ ! BELEM_BRA Extreme Annual Wind Speeds, 1%=8.4m/s, 2.5%=7m/s, 5%=6m/s
+ ! BELEM_BRA Extreme Annual Temperatures, Max Drybulb=21.1°C Min Drybulb=35.3°C
+  
+ ! BELEM_BRA Annual Heating Design Conditions Wind Speed=1.2m/s Wind Dir=90
+ ! Coldest Month=FEB
+ ! BELEM_BRA Annual Heating 99.6%, MaxDB=22.8°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Htg 99.6% Condns DB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       22.8,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       22.8,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        1.2,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+         90,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+ 
+ ! BELEM_BRA Annual Heating 99%, MaxDB=22.8°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Htg 99% Condns DB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       22.8,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       22.8,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        1.2,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+         90,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+ 
+ ! BELEM_BRA Annual Humidification 99.6% Design Conditions DP=>MCDB, DP=20.9°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Hum_n 99.6% Condns DP=>MCDB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       28.3,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Dewpoint,     !- Humidity Condition Type
+       20.9,      !- Dewpoint at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        1.2,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+         90,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+ 
+ ! BELEM_BRA Annual Humidification 99% Design Conditions DP=>MCDB, DP=21.3°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Hum_n 99% Condns DP=>MCDB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       27.4,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Dewpoint,     !- Humidity Condition Type
+       21.3,      !- Dewpoint at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        1.2,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+         90,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+ 
+ ! BELEM_BRA Annual Heating Wind 99.6% Design Conditions WS=>MCDB, WS=10m/s
+ SizingPeriod:DesignDay,
+  BELEM Ann Htg Wind 99.6% Condns WS=>MCDB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       27.6,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       27.6,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+         10,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+         90,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+ 
+ ! BELEM_BRA Annual Heating Wind 99% Design Conditions WS=>MCDB, WS=8.5m/s
+ SizingPeriod:DesignDay,
+  BELEM Ann Htg Wind 99% Condns WS=>MCDB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       28.1,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       28.1,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        8.5,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+         90,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+ 
+ ! BELEM Annual Cooling Design Conditions Wind Speed=3.7m/s Wind Dir=120
+ ! Hottest Month=NOV
+ ! BELEM_BRA Annual Cooling (DB=>MWB) .4%, MaxDB=33.1°C MWB=26.1°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg .4% Condns DB=>MWB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       33.1,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       26.1,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (DB=>MWB) 1%, MaxDB=32.8°C MWB=26°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 1% Condns DB=>MWB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       32.8,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+         26,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (DB=>MWB) 2%, MaxDB=32.2°C MWB=25.8°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 2% Condns DB=>MWB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       32.2,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       25.8,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (WB=>MDB) .4%, MDB=30.3°C WB=28.1°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg .4% Condns WB=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       30.3,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       28.1,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (WB=>MDB) 1%, MDB=30.2°C WB=27.7°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 1% Condns WB=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       30.2,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       27.7,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (WB=>MDB) 2%, MDB=30.1°C WB=27.3°C
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 2% Condns WB=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       30.1,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       27.3,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (DP=>MDB) .4%, MDB=29.5°C DP=27.2°C HR=0.0231
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg .4% Condns DP=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       29.5,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Dewpoint,     !- Humidity Condition Type
+       27.2,      !- Dewpoint at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (DP=>MDB) 1%, MDB=29.4°C DP=27.1°C HR=0.0228
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 1% Condns DP=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       29.4,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Dewpoint,     !- Humidity Condition Type
+       27.1,      !- Dewpoint at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (DP=>MDB) 2%, MDB=29.1°C DP=26.8°C HR=0.0225
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 2% Condns DP=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       29.1,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Dewpoint,     !- Humidity Condition Type
+       26.8,      !- Dewpoint at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (Enthalpy=>MDB) .4%, MDB=30.8°C Enthalpy=90100.0J/kg
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg .4% Condns Enth=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       30.8,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+   Enthalpy,      !- Humidity Condition Type
+           ,      !- Wetbulb or Dewpoint at Maximum Dry-Bulb
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+    90100.0,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (Enthalpy=>MDB) 1%, MDB=30.3°C Enthalpy=88700.0J/kg
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 1% Condns Enth=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       30.3,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+   Enthalpy,      !- Humidity Condition Type
+           ,      !- Wetbulb or Dewpoint at Maximum Dry-Bulb
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+    88700.0,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+ ! BELEM_BRA Annual Cooling (Enthalpy=>MDB) 2%, MDB=30.2°C Enthalpy=86900.0J/kg
+ SizingPeriod:DesignDay,
+  BELEM Ann Clg 2% Condns Enth=>MDB,     !- Name
+         11,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       30.2,      !- Maximum Dry-Bulb Temperature {C}
+        8.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+   Enthalpy,      !- Humidity Condition Type
+           ,      !- Wetbulb or Dewpoint at Maximum Dry-Bulb
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+    86900.0,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101133.,      !- Barometric Pressure {Pa}
+        3.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+        120,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.479,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.069;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
