@@ -1,0 +1,10 @@
+
+
+OS:Material,
+  Cellular Glass - 1 in.,   ! Name
+  MediumRough,              ! Roughness
+  0.0254,                   ! Thickness {m}
+  0.05,                     ! Conductivity {W/m-K}
+  136,                      ! Density {kg/m3}
+  750;                      ! Specific Heat {J/kg-K}
+

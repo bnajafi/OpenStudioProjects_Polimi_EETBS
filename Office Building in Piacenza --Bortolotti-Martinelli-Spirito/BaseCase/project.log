@@ -1,0 +1,62 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2dfe3ab0-8766-4d67-a790-bb0c6c647379} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2dfe3ab0-8766-4d67-a790-bb0c6c647379} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2dfe3ab0-8766-4d67-a790-bb0c6c647379} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2dfe3ab0-8766-4d67-a790-bb0c6c647379} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {9d645067-7ca2-4536-82a7-61b2167bcf0d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {9d645067-7ca2-4536-82a7-61b2167bcf0d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {9d645067-7ca2-4536-82a7-61b2167bcf0d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {9d645067-7ca2-4536-82a7-61b2167bcf0d} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {8e4082bc-2030-425e-b187-02e65545bc3c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {8e4082bc-2030-425e-b187-02e65545bc3c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {8e4082bc-2030-425e-b187-02e65545bc3c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {8e4082bc-2030-425e-b187-02e65545bc3c} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {f9ab09bf-5a12-4c58-8b82-93c94b7af59c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {f9ab09bf-5a12-4c58-8b82-93c94b7af59c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {f9ab09bf-5a12-4c58-8b82-93c94b7af59c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {f9ab09bf-5a12-4c58-8b82-93c94b7af59c} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {0af738da-dba8-4a00-9ea4-2941915e8251} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {0af738da-dba8-4a00-9ea4-2941915e8251} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {0af738da-dba8-4a00-9ea4-2941915e8251} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {0af738da-dba8-4a00-9ea4-2941915e8251} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 0000008E02F0F4F0
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Utente/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.11.0.
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 1307 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1307 objects in IDF form.
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1307 objects in Model form.
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources to C:/Users/Utente/Desktop/Behzad project/BaseCase
+[copyDir] <-1> copyDir 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources' to 'C:/Users/Utente/Desktop/Behzad project/BaseCase'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/files' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/0-Null' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/1-ModelToIdf-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/2-ExpandObjects-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/3-UserScript-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/5-EnergyPlus-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/6-UserScript-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/scripts' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/files' to 'C:/Users/Utente/Desktop/Behzad project/BaseCase/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Utente/Desktop/Behzad project/BaseCase/files' with source 'C:/Users/Utente/AppData/Local/Temp/OpenStudio.l18580/resources/files'
