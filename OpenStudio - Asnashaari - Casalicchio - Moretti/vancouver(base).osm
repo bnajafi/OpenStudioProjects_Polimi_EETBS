@@ -6031,7 +6031,7 @@ OS:DefaultSurfaceConstructions,
   {94698301-6b84-4a6f-8b78-75bca600fb17}, !- Handle
   Default Surface Constructions 1,        !- Name
   {78a5e5c5-806e-400a-a800-196f73e1d063}, !- Floor Construction Name
-  {7a29ba3c-05e0-4ba6-a7bf-72746f63eedc}, !- Wall Construction Name
+  {c79253de-386e-46f7-8631-b7bc0fd326fd}, !- Wall Construction Name
   {94f9c7d5-7c2c-4130-9083-b2afb613c345}; !- Roof Ceiling Construction Name
 
 OS:Construction,
@@ -7203,20 +7203,17 @@ OS:Material:AirWall,
 
 OS:Construction,
   {7a29ba3c-05e0-4ba6-a7bf-72746f63eedc}, !- Handle
-  Ext wall 1,                             !- Name
+  Air Wall,                               !- Name
   {9b2c287d-2383-4d39-943b-54a2f33ed5f7}, !- Surface Rendering Name
-  {1b6a3c67-9064-4889-b943-25a4062e784c}, !- Layer 1
-  {8c3bdd60-1a12-4070-962c-67c71fc7c292}, !- Layer 2
-  {c5b1355a-3d54-48e6-970e-b953b2346118}, !- Layer 3
-  {dbbb12ae-bb16-4785-b7ef-7a3738ef28c2}; !- Layer 4
+  {8ea9f6e6-0bb1-424a-a9d5-8fb8da2c8afe}; !- Layer 1
 
 OS:Site,
   {a681498a-85e7-4863-8e88-41de132f72a1}, !- Handle
-  Tehran Mehrabad,                        !- Name
-  35.41,                                  !- Latitude {deg}
-  51.19,                                  !- Longitude {deg}
-  3,                                      !- Time Zone {hr}
-  1190,                                   !- Elevation {m}
+  Vancouver Int'l,                        !- Name
+  49.18,                                  !- Latitude {deg}
+  -123.17,                                !- Longitude {deg}
+  -8,                                     !- Time Zone {hr}
+  2,                                      !- Elevation {m}
   ;                                       !- Terrain
 
 OS:YearDescription,
@@ -7491,8 +7488,8 @@ OS:Surface,
   ,                                       !- Number of Vertices
   -3.60955709766131e-016, 15, 2.2,        !- X,Y,Z Vertex 1 {m}
   -3.60955709766131e-016, 15, 0,          !- X,Y,Z Vertex 2 {m}
-  -1.6029653594091e-031, -3.85732999357353e-048, 0, !- X,Y,Z Vertex 3 {m}
-  -1.6029653594091e-031, -3.85732999357353e-048, 2.2; !- X,Y,Z Vertex 4 {m}
+  -1.00185334963069e-031, -2.41083124598346e-048, 0, !- X,Y,Z Vertex 3 {m}
+  -1.00185334963069e-031, -2.41083124598346e-048, 2.2; !- X,Y,Z Vertex 4 {m}
 
 OS:Surface,
   {86bbaf19-efa4-4104-801a-788aefee3f48}, !- Handle
@@ -7557,8 +7554,8 @@ OS:Surface,
   WindExposed,                            !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  1.04147909826486e-046, -6.41186143763638e-031, 2.2, !- X,Y,Z Vertex 1 {m}
-  1.04147909826486e-046, -6.41186143763638e-031, 0, !- X,Y,Z Vertex 2 {m}
+  7.81109323698644e-047, -4.80889607822729e-031, 2.2, !- X,Y,Z Vertex 1 {m}
+  7.81109323698644e-047, -4.80889607822729e-031, 0, !- X,Y,Z Vertex 2 {m}
   20, 3.24860138789518e-015, 0,           !- X,Y,Z Vertex 3 {m}
   20, 3.24860138789518e-015, 2.2;         !- X,Y,Z Vertex 4 {m}
 
@@ -7574,10 +7571,10 @@ OS:Surface,
   NoWind,                                 !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  20, 3.24860138789518e-015, 2.2,         !- X,Y,Z Vertex 1 {m}
-  20, 15, 2.2,                            !- X,Y,Z Vertex 2 {m}
-  -3.60955709766131e-016, 15, 2.2,        !- X,Y,Z Vertex 3 {m}
-  0, 0, 2.2;                              !- X,Y,Z Vertex 4 {m}
+  0, 0, 2.2,                              !- X,Y,Z Vertex 1 {m}
+  20, 3.24860138789518e-015, 2.2,         !- X,Y,Z Vertex 2 {m}
+  20, 15, 2.2,                            !- X,Y,Z Vertex 3 {m}
+  -3.60955709766131e-016, 15, 2.2;        !- X,Y,Z Vertex 4 {m}
 
 OS:Space,
   {5b861a3d-cff9-4dd9-b723-2b43ce623ffd}, !- Handle
@@ -7914,10 +7911,10 @@ OS:Surface,
   NoWind,                                 !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  33, 2.88764567812905e-015, 2.2,         !- X,Y,Z Vertex 1 {m}
-  33, 15, 2.2,                            !- X,Y,Z Vertex 2 {m}
-  0, 15, 2.2,                             !- X,Y,Z Vertex 3 {m}
-  0, 0, 2.2;                              !- X,Y,Z Vertex 4 {m}
+  0, 0, 2.2,                              !- X,Y,Z Vertex 1 {m}
+  33, 2.88764567812905e-015, 2.2,         !- X,Y,Z Vertex 2 {m}
+  33, 15, 2.2,                            !- X,Y,Z Vertex 3 {m}
+  0, 15, 2.2;                             !- X,Y,Z Vertex 4 {m}
 
 OS:Space,
   {0c663cca-4a51-47e2-b3b3-47dbb577687a}, !- Handle
@@ -8423,7 +8420,7 @@ OS:Surface,
   NoWind,                                 !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  20, 15, -6.47258655510984e-063,         !- X,Y,Z Vertex 1 {m}
+  20, 15, -6.47258655510985e-063,         !- X,Y,Z Vertex 1 {m}
   20, 3.24860138789518e-015, 9.27815861827021e-063, !- X,Y,Z Vertex 2 {m}
   1.06969371383603e-046, -6.5855645929469e-031, 2.22233317284899e-062, !- X,Y,Z Vertex 3 {m}
   -3.60955709766131e-016, 15, 6.47258655510985e-063; !- X,Y,Z Vertex 4 {m}
@@ -8441,9 +8438,9 @@ OS:Surface,
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
   -3.60955709766131e-016, 15, 2.2,        !- X,Y,Z Vertex 1 {m}
-  -3.60955709766131e-016, 15, 2.52087632422877e-064, !- X,Y,Z Vertex 2 {m}
-  -1.22838149973991e-031, -6.5855645929469e-031, 2.85434692563283e-062, !- X,Y,Z Vertex 3 {m}
-  -1.37643720929987e-031, -3.31221913220897e-048, 2.2; !- X,Y,Z Vertex 4 {m}
+  -3.60955709766131e-016, 15, 0,          !- X,Y,Z Vertex 2 {m}
+  -1.00185334963068e-031, -6.5855645929469e-031, 2.86959182835998e-062, !- X,Y,Z Vertex 3 {m}
+  -1.00185334963069e-031, -2.41083124598346e-048, 2.2; !- X,Y,Z Vertex 4 {m}
 
 OS:Surface,
   {915e0725-0c0e-4154-903f-a3d436fe6507}, !- Handle
@@ -8508,8 +8505,8 @@ OS:Surface,
   WindExposed,                            !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  1.04147909826486e-046, -6.41186143763638e-031, 2.2, !- X,Y,Z Vertex 1 {m}
-  1.04147909826485e-046, -6.41186143763638e-031, 3.95792783675371e-062, !- X,Y,Z Vertex 2 {m}
+  8.4908950483993e-047, -5.22741576115664e-031, 2.2, !- X,Y,Z Vertex 1 {m}
+  1.23386869168978e-046, -7.59630711411612e-031, 3.95792783675371e-062, !- X,Y,Z Vertex 2 {m}
   20, 3.24860138789518e-015, 1.83648855856984e-062, !- X,Y,Z Vertex 3 {m}
   20, 3.24860138789518e-015, 2.2;         !- X,Y,Z Vertex 4 {m}
 
@@ -8525,10 +8522,10 @@ OS:Surface,
   NoWind,                                 !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  20, 3.24860138789518e-015, 2.2,         !- X,Y,Z Vertex 1 {m}
-  20, 15, 2.2,                            !- X,Y,Z Vertex 2 {m}
-  -3.60955709766131e-016, 15, 2.2,        !- X,Y,Z Vertex 3 {m}
-  0, 0, 2.2;                              !- X,Y,Z Vertex 4 {m}
+  0, 0, 2.2,                              !- X,Y,Z Vertex 1 {m}
+  20, 3.24860138789518e-015, 2.2,         !- X,Y,Z Vertex 2 {m}
+  20, 15, 2.2,                            !- X,Y,Z Vertex 3 {m}
+  -3.60955709766131e-016, 15, 2.2;        !- X,Y,Z Vertex 4 {m}
 
 OS:Space,
   {98f60712-bf48-4b56-b393-a27b99a1400a}, !- Handle
@@ -8863,10 +8860,10 @@ OS:Surface,
   NoWind,                                 !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  33, 2.88764567812905e-015, 2.2,         !- X,Y,Z Vertex 1 {m}
-  33, 15, 2.2,                            !- X,Y,Z Vertex 2 {m}
-  0, 15, 2.2,                             !- X,Y,Z Vertex 3 {m}
-  0, 0, 2.2;                              !- X,Y,Z Vertex 4 {m}
+  0, 0, 2.2,                              !- X,Y,Z Vertex 1 {m}
+  33, 2.88764567812905e-015, 2.2,         !- X,Y,Z Vertex 2 {m}
+  33, 15, 2.2,                            !- X,Y,Z Vertex 3 {m}
+  0, 15, 2.2;                             !- X,Y,Z Vertex 4 {m}
 
 OS:Space,
   {5c1cbdb7-4238-438f-8640-e73ef696215d}, !- Handle
@@ -9370,7 +9367,7 @@ OS:Surface,
   NoWind,                                 !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  20, 15, -6.47258655510984e-063,         !- X,Y,Z Vertex 1 {m}
+  20, 15, -6.47258655510985e-063,         !- X,Y,Z Vertex 1 {m}
   20, 3.24860138789518e-015, 9.27815861827021e-063, !- X,Y,Z Vertex 2 {m}
   1.06969371383603e-046, -6.5855645929469e-031, 2.22233317284899e-062, !- X,Y,Z Vertex 3 {m}
   -3.60955709766131e-016, 15, 6.47258655510985e-063; !- X,Y,Z Vertex 4 {m}
@@ -9388,9 +9385,9 @@ OS:Surface,
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
   -3.60955709766131e-016, 15, 2.2,        !- X,Y,Z Vertex 1 {m}
-  -3.60955709766131e-016, 15, 2.52087632422877e-064, !- X,Y,Z Vertex 2 {m}
-  -1.22838149973991e-031, -6.5855645929469e-031, 2.85434692563283e-062, !- X,Y,Z Vertex 3 {m}
-  -1.37643720929987e-031, -3.31221913220897e-048, 2.2; !- X,Y,Z Vertex 4 {m}
+  -3.60955709766131e-016, 15, 0,          !- X,Y,Z Vertex 2 {m}
+  -1.00185334963068e-031, -6.5855645929469e-031, 2.86959182835998e-062, !- X,Y,Z Vertex 3 {m}
+  -1.00185334963069e-031, -2.41083124598346e-048, 2.2; !- X,Y,Z Vertex 4 {m}
 
 OS:Surface,
   {ae80b5f7-6cde-42e0-8863-7326d005fdfd}, !- Handle
@@ -9455,8 +9452,8 @@ OS:Surface,
   WindExposed,                            !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  1.04147909826486e-046, -6.41186143763638e-031, 2.2, !- X,Y,Z Vertex 1 {m}
-  1.04147909826485e-046, -6.41186143763638e-031, 3.95792783675371e-062, !- X,Y,Z Vertex 2 {m}
+  8.4908950483993e-047, -5.22741576115664e-031, 2.2, !- X,Y,Z Vertex 1 {m}
+  1.23386869168978e-046, -7.59630711411612e-031, 3.95792783675371e-062, !- X,Y,Z Vertex 2 {m}
   20, 3.24860138789518e-015, 1.83648855856984e-062, !- X,Y,Z Vertex 3 {m}
   20, 3.24860138789518e-015, 2.2;         !- X,Y,Z Vertex 4 {m}
 
@@ -9472,10 +9469,10 @@ OS:Surface,
   WindExposed,                            !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  20, 3.24860138789518e-015, 2.2,         !- X,Y,Z Vertex 1 {m}
-  20, 15, 2.2,                            !- X,Y,Z Vertex 2 {m}
-  -3.60955709766131e-016, 15, 2.2,        !- X,Y,Z Vertex 3 {m}
-  0, 0, 2.2;                              !- X,Y,Z Vertex 4 {m}
+  0, 0, 2.2,                              !- X,Y,Z Vertex 1 {m}
+  20, 3.24860138789518e-015, 2.2,         !- X,Y,Z Vertex 2 {m}
+  20, 15, 2.2,                            !- X,Y,Z Vertex 3 {m}
+  -3.60955709766131e-016, 15, 2.2;        !- X,Y,Z Vertex 4 {m}
 
 OS:Space,
   {2e8f49c0-4a2f-49c5-a934-2f3b788572dd}, !- Handle
@@ -9810,10 +9807,10 @@ OS:Surface,
   WindExposed,                            !- Wind Exposure
   ,                                       !- View Factor to Ground
   ,                                       !- Number of Vertices
-  33, 2.88764567812905e-015, 2.2,         !- X,Y,Z Vertex 1 {m}
-  33, 15, 2.2,                            !- X,Y,Z Vertex 2 {m}
-  0, 15, 2.2,                             !- X,Y,Z Vertex 3 {m}
-  0, 0, 2.2;                              !- X,Y,Z Vertex 4 {m}
+  0, 0, 2.2,                              !- X,Y,Z Vertex 1 {m}
+  33, 2.88764567812905e-015, 2.2,         !- X,Y,Z Vertex 2 {m}
+  33, 15, 2.2,                            !- X,Y,Z Vertex 3 {m}
+  0, 15, 2.2;                             !- X,Y,Z Vertex 4 {m}
 
 OS:Space,
   {6d1b9714-f672-4044-b6a5-7b9e00193d18}, !- Handle
@@ -10843,10 +10840,10 @@ OS:ShadingSurface,
   {2a1b95a8-baec-474a-8ba0-9c894cd0b66f}, !- Shading Surface Group Name
   ,                                       !- Transmittance Schedule Name
   ,                                       !- Number of Vertices
-  18, -0.600000000000009, 1.7,            !- X,Y,Z Vertex 1 {m}
-  32, -0.600000000000006, 1.7,            !- X,Y,Z Vertex 2 {m}
-  32, -5.77529135625809e-015, 1.7,        !- X,Y,Z Vertex 3 {m}
-  18, -8.66293703438714e-015, 1.7;        !- X,Y,Z Vertex 4 {m}
+  32, -0.600000000000006, 1.7,            !- X,Y,Z Vertex 1 {m}
+  32, -5.77529135625809e-015, 1.7,        !- X,Y,Z Vertex 2 {m}
+  18, -8.66293703438714e-015, 1.7,        !- X,Y,Z Vertex 3 {m}
+  18, -0.600000000000009, 1.7;            !- X,Y,Z Vertex 4 {m}
 
 OS:ShadingSurfaceGroup,
   {4d761616-2921-4f64-972e-64bb10941363}, !- Handle
@@ -10912,10 +10909,10 @@ OS:ShadingSurface,
   {dfa7388e-5a95-41a5-9622-6af269dc3d69}, !- Shading Surface Group Name
   ,                                       !- Transmittance Schedule Name
   ,                                       !- Number of Vertices
-  18, -0.600000000000026, 1.7,            !- X,Y,Z Vertex 1 {m}
-  32, -0.600000000000007, 1.7,            !- X,Y,Z Vertex 2 {m}
-  32, -7.21911419532259e-015, 1.7,        !- X,Y,Z Vertex 3 {m}
-  18, -2.59888111031614e-014, 1.7;        !- X,Y,Z Vertex 4 {m}
+  32, -0.600000000000007, 1.7,            !- X,Y,Z Vertex 1 {m}
+  32, -7.21911419532259e-015, 1.7,        !- X,Y,Z Vertex 2 {m}
+  18, -2.59888111031614e-014, 1.7,        !- X,Y,Z Vertex 3 {m}
+  18, -0.600000000000026, 1.7;            !- X,Y,Z Vertex 4 {m}
 
 OS:ShadingSurfaceGroup,
   {c560f096-21e5-47c4-98f9-e6d4bc5e11af}, !- Handle
@@ -11050,10 +11047,10 @@ OS:ShadingSurface,
   {75380baa-aaf1-4974-af53-63bc2272a545}, !- Shading Surface Group Name
   ,                                       !- Transmittance Schedule Name
   ,                                       !- Number of Vertices
-  18, -0.600000000000025, 1.69999999999999, !- X,Y,Z Vertex 1 {m}
-  32, -0.600000000000017, 1.69999999999999, !- X,Y,Z Vertex 2 {m}
-  32, -1.73258740687743e-014, 1.7,        !- X,Y,Z Vertex 3 {m}
-  18, -2.45449882640969e-014, 1.7;        !- X,Y,Z Vertex 4 {m}
+  32, -0.600000000000017, 1.69999999999999, !- X,Y,Z Vertex 1 {m}
+  32, -1.73258740687743e-014, 1.7,        !- X,Y,Z Vertex 2 {m}
+  18, -2.45449882640969e-014, 1.7,        !- X,Y,Z Vertex 3 {m}
+  18, -0.600000000000025, 1.69999999999999; !- X,Y,Z Vertex 4 {m}
 
 OS:ShadingSurfaceGroup,
   {3eb62c98-90a6-460d-93a3-b035702cc270}, !- Handle
@@ -12550,21 +12547,21 @@ OS:ThermostatSetpoint:DualSetpoint,
   {e9bd9cb4-1124-4ccf-bf18-c5ad994faa55}; !- Cooling Setpoint Temperature Schedule Name
 
 OS:WeatherFile,
-  {8da1f81d-7800-4397-aa3f-ca84cb071626}, !- Handle
-  Tehran Mehrabad,                        !- City
-  -,                                      !- State Province Region
-  IRN,                                    !- Country
-  ITMY,                                   !- Data Source
-  407540,                                 !- WMO Number
-  35.41,                                  !- Latitude {deg}
-  51.19,                                  !- Longitude {deg}
-  3,                                      !- Time Zone {hr}
-  1190,                                   !- Elevation {m}
-  file:files/IRN_Tehran-Mehrabad.407540_ITMY.epw, !- Url
-  1D114E57;                               !- Checksum
+  {950e1f4c-476d-430c-a31c-a0cdb7edaafb}, !- Handle
+  Vancouver Int'l,                        !- City
+  BC,                                     !- State Province Region
+  CAN,                                    !- Country
+  WYEC2-B-94238,                          !- Data Source
+  718920,                                 !- WMO Number
+  49.18,                                  !- Latitude {deg}
+  -123.17,                                !- Longitude {deg}
+  -8,                                     !- Time Zone {hr}
+  2,                                      !- Elevation {m}
+  file:files/CAN_BC_Vancouver.718920_CWEC.epw, !- Url
+  9D8CC810;                               !- Checksum
 
 OS:RunPeriod,
-  {1a4969a6-5178-4eb4-a543-e57b6f157813}, !- Handle
+  {9e833d36-8b55-4361-b8a9-6dc5a122905c}, !- Handle
   Run Period 1,                           !- Name
   1,                                      !- Begin Month
   1,                                      !- Begin Day of Month
@@ -12578,14 +12575,40 @@ OS:RunPeriod,
   ;                                       !- Number of Times Runperiod to be Repeated
 
 OS:SizingPeriod:DesignDay,
-  {f0c92173-c34d-4247-bd3a-ccb6018e3b09}, !- Handle
-  MILAN Ann Clg .4% Condns DP=>MDB,       !- Name
-  27.5,                                   !- Maximum Dry-Bulb Temperature {C}
-  12,                                     !- Daily Dry-Bulb Temperature Range {deltaC}
-  22.9,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  2,                                      !- Wind Speed {m/s}
-  240,                                    !- Wind Direction {deg}
+  {ffb28e9e-3aaf-43f8-940f-6c054b007bb6}, !- Handle
+  STUTTGART Ann Clg .4% Condns Enth=>MDB, !- Name
+  27.7,                                   !- Maximum Dry-Bulb Temperature {C}
+  10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
+  58900,                                  !- Humidity Indicating Conditions at Maximum Dry-Bulb
+  96392,                                  !- Barometric Pressure {Pa}
+  3.2,                                    !- Wind Speed {m/s}
+  90,                                     !- Wind Direction {deg}
+  0,                                      !- Sky Clearness
+  0,                                      !- Rain Indicator
+  0,                                      !- Snow Indicator
+  21,                                     !- Day of Month
+  7,                                      !- Month
+  SummerDesignDay,                        !- Day Type
+  0,                                      !- Daylight Saving Time Indicator
+  Enthalpy,                               !- Humidity Indicating Type
+  ,                                       !- Humidity Indicating Day Schedule Name
+  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
+  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
+  ASHRAETau,                              !- Solar Model Indicator
+  ,                                       !- Beam Solar Day Schedule Name
+  ,                                       !- Diffuse Solar Day Schedule Name
+  0.441,                                  !- ASHRAE Taub {dimensionless}
+  2.028;                                  !- ASHRAE Taud {dimensionless}
+
+OS:SizingPeriod:DesignDay,
+  {d6fecd70-8fb4-4ddc-bd9f-cb1d0c2757db}, !- Handle
+  STUTTGART Ann Clg .4% Condns DP=>MDB,   !- Name
+  23.1,                                   !- Maximum Dry-Bulb Temperature {C}
+  10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
+  17.4,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
+  96392,                                  !- Barometric Pressure {Pa}
+  3.2,                                    !- Wind Speed {m/s}
+  90,                                     !- Wind Direction {deg}
   0,                                      !- Sky Clearness
   0,                                      !- Rain Indicator
   0,                                      !- Snow Indicator
@@ -12600,18 +12623,40 @@ OS:SizingPeriod:DesignDay,
   ASHRAETau,                              !- Solar Model Indicator
   ,                                       !- Beam Solar Day Schedule Name
   ,                                       !- Diffuse Solar Day Schedule Name
-  0.488,                                  !- ASHRAE Taub {dimensionless}
-  1.889;                                  !- ASHRAE Taud {dimensionless}
+  0.441,                                  !- ASHRAE Taub {dimensionless}
+  2.028;                                  !- ASHRAE Taud {dimensionless}
 
 OS:SizingPeriod:DesignDay,
-  {778e7bac-de16-47ad-ac24-7b077e4bb58f}, !- Handle
-  MILAN Ann Clg .4% Condns WB=>MDB,       !- Name
-  29.5,                                   !- Maximum Dry-Bulb Temperature {C}
-  12,                                     !- Daily Dry-Bulb Temperature Range {deltaC}
-  24.3,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  2,                                      !- Wind Speed {m/s}
-  240,                                    !- Wind Direction {deg}
+  {31273361-f3ab-44e1-94fb-c6a3321b0d3f}, !- Handle
+  STUTTGART Ann Htg 99.6% Condns DB,      !- Name
+  -12.7,                                  !- Maximum Dry-Bulb Temperature {C}
+  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
+  -12.7,                                  !- Humidity Indicating Conditions at Maximum Dry-Bulb
+  96392,                                  !- Barometric Pressure {Pa}
+  1.7,                                    !- Wind Speed {m/s}
+  90,                                     !- Wind Direction {deg}
+  0,                                      !- Sky Clearness
+  0,                                      !- Rain Indicator
+  0,                                      !- Snow Indicator
+  21,                                     !- Day of Month
+  1,                                      !- Month
+  WinterDesignDay,                        !- Day Type
+  0,                                      !- Daylight Saving Time Indicator
+  Wetbulb,                                !- Humidity Indicating Type
+  ,                                       !- Humidity Indicating Day Schedule Name
+  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
+  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
+  ASHRAEClearSky;                         !- Solar Model Indicator
+
+OS:SizingPeriod:DesignDay,
+  {175b1009-3cf2-4ac0-908f-32d435dc5141}, !- Handle
+  STUTTGART Ann Clg .4% Condns WB=>MDB,   !- Name
+  27.4,                                   !- Maximum Dry-Bulb Temperature {C}
+  10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
+  20,                                     !- Humidity Indicating Conditions at Maximum Dry-Bulb
+  96392,                                  !- Barometric Pressure {Pa}
+  3.2,                                    !- Wind Speed {m/s}
+  90,                                     !- Wind Direction {deg}
   0,                                      !- Sky Clearness
   0,                                      !- Rain Indicator
   0,                                      !- Snow Indicator
@@ -12626,276 +12671,18 @@ OS:SizingPeriod:DesignDay,
   ASHRAETau,                              !- Solar Model Indicator
   ,                                       !- Beam Solar Day Schedule Name
   ,                                       !- Diffuse Solar Day Schedule Name
-  0.488,                                  !- ASHRAE Taub {dimensionless}
-  1.889;                                  !- ASHRAE Taud {dimensionless}
+  0.441,                                  !- ASHRAE Taub {dimensionless}
+  2.028;                                  !- ASHRAE Taud {dimensionless}
 
 OS:SizingPeriod:DesignDay,
-  {38a66807-4851-4fa2-8b97-a0f7b72f8fab}, !- Handle
-  MILAN Ann Htg 99.6% Condns DB,          !- Name
-  -9.1,                                   !- Maximum Dry-Bulb Temperature {C}
-  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
-  -9.1,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  0.2,                                    !- Wind Speed {m/s}
-  0,                                      !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  1,                                      !- Month
-  WinterDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Wetbulb,                                !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAEClearSky;                         !- Solar Model Indicator
-
-OS:SizingPeriod:DesignDay,
-  {31cf1efa-ba6d-4d22-8714-098919b871f9}, !- Handle
-  MILAN Ann Htg Wind 99.6% Condns WS=>MCDB, !- Name
-  7.2,                                    !- Maximum Dry-Bulb Temperature {C}
-  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
-  7.2,                                    !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  9.9,                                    !- Wind Speed {m/s}
-  0,                                      !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  1,                                      !- Month
-  WinterDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Wetbulb,                                !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAEClearSky;                         !- Solar Model Indicator
-
-OS:SizingPeriod:DesignDay,
-  {66084609-131d-498a-b087-574e701f201c}, !- Handle
-  MILAN Ann Hum_n 99.6% Condns DP=>MCDB,  !- Name
-  -0.8,                                   !- Maximum Dry-Bulb Temperature {C}
-  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
-  -14.6,                                  !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  0.2,                                    !- Wind Speed {m/s}
-  0,                                      !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  1,                                      !- Month
-  WinterDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Dewpoint,                               !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAEClearSky;                         !- Solar Model Indicator
-
-OS:SizingPeriod:DesignDay,
-  {9ab4624c-4e78-44f9-ace1-8637615fdff2}, !- Handle
-  MILAN Ann Clg .4% Condns DB=>MWB,       !- Name
-  31.9,                                   !- Maximum Dry-Bulb Temperature {C}
-  12,                                     !- Daily Dry-Bulb Temperature Range {deltaC}
-  22.4,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  2,                                      !- Wind Speed {m/s}
-  240,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  7,                                      !- Month
-  SummerDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Wetbulb,                                !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAETau,                              !- Solar Model Indicator
-  ,                                       !- Beam Solar Day Schedule Name
-  ,                                       !- Diffuse Solar Day Schedule Name
-  0.488,                                  !- ASHRAE Taub {dimensionless}
-  1.889;                                  !- ASHRAE Taud {dimensionless}
-
-OS:SizingPeriod:DesignDay,
-  {9cad6c17-4136-4850-bed5-8231031c3560}, !- Handle
-  MILAN Ann Clg .4% Condns Enth=>MDB,     !- Name
+  {bc0918b9-86e2-44dc-83a8-8cce6ea2a97e}, !- Handle
+  STUTTGART Ann Clg .4% Condns DB=>MWB,   !- Name
   29.3,                                   !- Maximum Dry-Bulb Temperature {C}
-  12,                                     !- Daily Dry-Bulb Temperature Range {deltaC}
-  74500,                                  !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  98816,                                  !- Barometric Pressure {Pa}
-  2,                                      !- Wind Speed {m/s}
-  240,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  7,                                      !- Month
-  SummerDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Enthalpy,                               !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAETau,                              !- Solar Model Indicator
-  ,                                       !- Beam Solar Day Schedule Name
-  ,                                       !- Diffuse Solar Day Schedule Name
-  0.488,                                  !- ASHRAE Taub {dimensionless}
-  1.889;                                  !- ASHRAE Taud {dimensionless}
-
-OS:StandardsInformation:Construction,
-  {41bcf57d-9942-4492-96f8-535a6bc7af66}, !- Handle
-  {7a29ba3c-05e0-4ba6-a7bf-72746f63eedc}, !- Construction Name
-  ,                                       !- Intended Surface Type
-  ,                                       !- Standards Construction Type
-  ,                                       !- Perturbable Layer
-  ,                                       !- Perturbable Layer Type
-  ,                                       !- Other Perturbable Layer Type
-  ,                                       !- Construction Standard
-  ,                                       !- Construction Standard Source
-  ,                                       !- Fenestration Type
-  ,                                       !- Fenestration Assembly Context
-  ,                                       !- Fenestration Number of Panes
-  ,                                       !- Fenestration Frame Type
-  ,                                       !- Fenestration Divider Type
-  ,                                       !- Fenestration Tint
-  ;                                       !- Fenestration Gas Fill
-
-OS:SizingPeriod:DesignDay,
-  {2152707e-3538-4080-99ee-9c272a057b49}, !- Handle
-  Tehran Mehrabad Ann Hum_n 99.6% Condns DP=>MCDB, !- Name
-  6.2,                                    !- Maximum Dry-Bulb Temperature {C}
-  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
-  -13,                                    !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
-  1.9,                                    !- Wind Speed {m/s}
-  270,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  1,                                      !- Month
-  WinterDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Dewpoint,                               !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAEClearSky;                         !- Solar Model Indicator
-
-OS:SizingPeriod:DesignDay,
-  {0d7d409d-1815-4e4b-be1c-18bd4161f4d7}, !- Handle
-  Tehran Mehrabad Ann Htg 99.6% Condns DB, !- Name
-  -2.8,                                   !- Maximum Dry-Bulb Temperature {C}
-  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
-  -2.8,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
-  1.9,                                    !- Wind Speed {m/s}
-  270,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  1,                                      !- Month
-  WinterDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Wetbulb,                                !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAEClearSky;                         !- Solar Model Indicator
-
-OS:SizingPeriod:DesignDay,
-  {d9941a2a-a85a-4d79-9754-79b9aa49131c}, !- Handle
-  Tehran Mehrabad Ann Clg .4% Condns WB=>MDB, !- Name
-  33,                                     !- Maximum Dry-Bulb Temperature {C}
-  10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
-  22.5,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
-  3.6,                                    !- Wind Speed {m/s}
-  120,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  7,                                      !- Month
-  SummerDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Wetbulb,                                !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAETau,                              !- Solar Model Indicator
-  ,                                       !- Beam Solar Day Schedule Name
-  ,                                       !- Diffuse Solar Day Schedule Name
-  0.752,                                  !- ASHRAE Taub {dimensionless}
-  1.326;                                  !- ASHRAE Taud {dimensionless}
-
-OS:SizingPeriod:DesignDay,
-  {f237574e-db62-40d8-af56-c1a2c8a1fe01}, !- Handle
-  Tehran Mehrabad Ann Clg .4% Condns Enth=>MDB, !- Name
-  32.7,                                   !- Maximum Dry-Bulb Temperature {C}
-  10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
-  72900,                                  !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
-  3.6,                                    !- Wind Speed {m/s}
-  120,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  7,                                      !- Month
-  SummerDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Enthalpy,                               !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAETau,                              !- Solar Model Indicator
-  ,                                       !- Beam Solar Day Schedule Name
-  ,                                       !- Diffuse Solar Day Schedule Name
-  0.752,                                  !- ASHRAE Taub {dimensionless}
-  1.326;                                  !- ASHRAE Taud {dimensionless}
-
-OS:SizingPeriod:DesignDay,
-  {8ea6f0f5-6671-4d73-8ccb-9af76cfed0ed}, !- Handle
-  Tehran Mehrabad Ann Clg .4% Condns DP=>MDB, !- Name
-  31,                                     !- Maximum Dry-Bulb Temperature {C}
   10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
   18.9,                                   !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
-  3.6,                                    !- Wind Speed {m/s}
-  120,                                    !- Wind Direction {deg}
-  0,                                      !- Sky Clearness
-  0,                                      !- Rain Indicator
-  0,                                      !- Snow Indicator
-  21,                                     !- Day of Month
-  7,                                      !- Month
-  SummerDesignDay,                        !- Day Type
-  0,                                      !- Daylight Saving Time Indicator
-  Dewpoint,                               !- Humidity Indicating Type
-  ,                                       !- Humidity Indicating Day Schedule Name
-  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
-  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
-  ASHRAETau,                              !- Solar Model Indicator
-  ,                                       !- Beam Solar Day Schedule Name
-  ,                                       !- Diffuse Solar Day Schedule Name
-  0.752,                                  !- ASHRAE Taub {dimensionless}
-  1.326;                                  !- ASHRAE Taud {dimensionless}
-
-OS:SizingPeriod:DesignDay,
-  {3388a423-b756-49ba-995a-7a42ad11b234}, !- Handle
-  Tehran Mehrabad Ann Clg .4% Condns DB=>MWB, !- Name
-  38.5,                                   !- Maximum Dry-Bulb Temperature {C}
-  10.6,                                   !- Daily Dry-Bulb Temperature Range {deltaC}
-  19,                                     !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
-  3.6,                                    !- Wind Speed {m/s}
-  120,                                    !- Wind Direction {deg}
+  96392,                                  !- Barometric Pressure {Pa}
+  3.2,                                    !- Wind Speed {m/s}
+  90,                                     !- Wind Direction {deg}
   0,                                      !- Sky Clearness
   0,                                      !- Rain Indicator
   0,                                      !- Snow Indicator
@@ -12910,18 +12697,18 @@ OS:SizingPeriod:DesignDay,
   ASHRAETau,                              !- Solar Model Indicator
   ,                                       !- Beam Solar Day Schedule Name
   ,                                       !- Diffuse Solar Day Schedule Name
-  0.752,                                  !- ASHRAE Taub {dimensionless}
-  1.326;                                  !- ASHRAE Taud {dimensionless}
+  0.441,                                  !- ASHRAE Taub {dimensionless}
+  2.028;                                  !- ASHRAE Taud {dimensionless}
 
 OS:SizingPeriod:DesignDay,
-  {8037df1b-3340-48bb-b1f2-6cb3a05d894c}, !- Handle
-  Tehran Mehrabad Ann Htg Wind 99.6% Condns WS=>MCDB, !- Name
-  9.5,                                    !- Maximum Dry-Bulb Temperature {C}
+  {5ae820e7-3ac1-43bd-b1fd-59ee02441727}, !- Handle
+  STUTTGART Ann Htg Wind 99.6% Condns WS=>MCDB, !- Name
+  5.7,                                    !- Maximum Dry-Bulb Temperature {C}
   0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
-  9.5,                                    !- Humidity Indicating Conditions at Maximum Dry-Bulb
-  87822,                                  !- Barometric Pressure {Pa}
+  5.7,                                    !- Humidity Indicating Conditions at Maximum Dry-Bulb
+  96392,                                  !- Barometric Pressure {Pa}
   11.5,                                   !- Wind Speed {m/s}
-  270,                                    !- Wind Direction {deg}
+  90,                                     !- Wind Direction {deg}
   0,                                      !- Sky Clearness
   0,                                      !- Rain Indicator
   0,                                      !- Snow Indicator
@@ -12935,83 +12722,25 @@ OS:SizingPeriod:DesignDay,
   ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
   ASHRAEClearSky;                         !- Solar Model Indicator
 
-OS:Material,
-  {34dedc0e-235e-4aca-8b1b-779c971f7443}, !- Handle
-  G05 25mm wood 1,                        !- Name
-  MediumSmooth,                           !- Roughness
-  0.0254,                                 !- Thickness {m}
-  0.15,                                   !- Conductivity {W/m-K}
-  608,                                    !- Density {kg/m3}
-  1630,                                   !- Specific Heat {J/kg-K}
-  0.9,                                    !- Thermal Absorptance
-  0.5,                                    !- Solar Absorptance
-  0.5;                                    !- Visible Absorptance
-
-OS:StandardsInformation:Material,
-  {e8a1acc2-501f-4953-bd6b-5413a5b86b2f}, !- Handle
-  {34dedc0e-235e-4aca-8b1b-779c971f7443}; !- Material Name
-
-OS:Material,
-  {1b6a3c67-9064-4889-b943-25a4062e784c}, !- Handle
-  1IN Stucco 1,                           !- Name
-  Smooth,                                 !- Roughness
-  0.0253,                                 !- Thickness {m}
-  0.691799999999999,                      !- Conductivity {W/m-K}
-  1858,                                   !- Density {kg/m3}
-  836.999999999999,                       !- Specific Heat {J/kg-K}
-  0.9,                                    !- Thermal Absorptance
-  0.92,                                   !- Solar Absorptance
-  0.92;                                   !- Visible Absorptance
-
-OS:StandardsInformation:Material,
-  {f91a2507-08a9-40f8-9989-6473974b8d36}, !- Handle
-  {1b6a3c67-9064-4889-b943-25a4062e784c}; !- Material Name
-
-OS:Material,
-  {8c3bdd60-1a12-4070-962c-67c71fc7c292}, !- Handle
-  G05 25mm wood 2,                        !- Name
-  MediumSmooth,                           !- Roughness
-  0.0254,                                 !- Thickness {m}
-  0.15,                                   !- Conductivity {W/m-K}
-  608,                                    !- Density {kg/m3}
-  1630,                                   !- Specific Heat {J/kg-K}
-  0.9,                                    !- Thermal Absorptance
-  0.5,                                    !- Solar Absorptance
-  0.5;                                    !- Visible Absorptance
-
-OS:StandardsInformation:Material,
-  {67bb1e58-0ae4-4515-97bd-e3c8e4a7ead5}, !- Handle
-  {8c3bdd60-1a12-4070-962c-67c71fc7c292}; !- Material Name
-
-OS:Material,
-  {c5b1355a-3d54-48e6-970e-b953b2346118}, !- Handle
-  I01 25mm insulation board 1,            !- Name
-  MediumRough,                            !- Roughness
-  0.0254,                                 !- Thickness {m}
-  0.03,                                   !- Conductivity {W/m-K}
-  43,                                     !- Density {kg/m3}
-  1210,                                   !- Specific Heat {J/kg-K}
-  0.9,                                    !- Thermal Absorptance
-  0.6,                                    !- Solar Absorptance
-  0.6;                                    !- Visible Absorptance
-
-OS:StandardsInformation:Material,
-  {5592e588-b88f-47d8-9717-66550d9bb07f}, !- Handle
-  {c5b1355a-3d54-48e6-970e-b953b2346118}; !- Material Name
-
-OS:Material,
-  {dbbb12ae-bb16-4785-b7ef-7a3738ef28c2}, !- Handle
-  1/2IN Gypsum 1,                         !- Name
-  Smooth,                                 !- Roughness
-  0.0127,                                 !- Thickness {m}
-  0.16,                                   !- Conductivity {W/m-K}
-  784.9,                                  !- Density {kg/m3}
-  830.000000000001,                       !- Specific Heat {J/kg-K}
-  0.9,                                    !- Thermal Absorptance
-  0.4,                                    !- Solar Absorptance
-  0.4;                                    !- Visible Absorptance
-
-OS:StandardsInformation:Material,
-  {415d534c-3ab8-466d-9fb6-d9b1c72bddde}, !- Handle
-  {dbbb12ae-bb16-4785-b7ef-7a3738ef28c2}; !- Material Name
+OS:SizingPeriod:DesignDay,
+  {c92b0c70-4cc5-49bc-a2e7-c724e00e3f15}, !- Handle
+  STUTTGART Ann Hum_n 99.6% Condns DP=>MCDB, !- Name
+  -12.4,                                  !- Maximum Dry-Bulb Temperature {C}
+  0,                                      !- Daily Dry-Bulb Temperature Range {deltaC}
+  -14.8,                                  !- Humidity Indicating Conditions at Maximum Dry-Bulb
+  96392,                                  !- Barometric Pressure {Pa}
+  1.7,                                    !- Wind Speed {m/s}
+  90,                                     !- Wind Direction {deg}
+  0,                                      !- Sky Clearness
+  0,                                      !- Rain Indicator
+  0,                                      !- Snow Indicator
+  21,                                     !- Day of Month
+  1,                                      !- Month
+  WinterDesignDay,                        !- Day Type
+  0,                                      !- Daylight Saving Time Indicator
+  Dewpoint,                               !- Humidity Indicating Type
+  ,                                       !- Humidity Indicating Day Schedule Name
+  DefaultMultipliers,                     !- Dry-Bulb Temperature Range Modifier Type
+  ,                                       !- Dry-Bulb Temperature Range Modifier Schedule Name
+  ASHRAEClearSky;                         !- Solar Model Indicator
 
