@@ -1,0 +1,101 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Cellular Polyurethane or Polyisocyanurate - Unfaced - 1 in.</name>
+ <uid>695a0e20-7926-0130-b7a1-0026b9d40ccf</uid>
+ <version_id>695ad170-7926-0130-b7a3-0026b9d40ccf</version_id>
+ <xml_checksum/>
+ <display_name/>
+ <description>Material from a data set created from ASHRAE HOF 2005 and ASHRAE 90.1-2004 Appendix A</description>
+ <modeler_description/>
+ <tags>
+  <tag>Opaque.Insulation</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Category</name>
+   <value>Board and Slab</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Thickness</name>
+   <value>25.4</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.0245</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Resistance</name>
+   <value>1.03673469387755</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Density</name>
+   <value>24.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Specific Heat</name>
+   <value>1590.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Exterior Wall</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Below Grade Wall</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Slab-On-Grade Floor</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Outdoor Exposed Floor</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Typical Application</name>
+   <value>Exterior Roof</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>OpenStudio Type</name>
+   <value>OS:Material</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.7.0</identifier>
+   </version>
+   <filename>Cellular_Polyurethane_or_Polyisocyanurate_Unfaced_1_in.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.7.0</identifier>
+   </version>
+   <filename>Cellular_Polyurethane_or_Polyisocyanurate_Unfaced_1_in.osc</filename>
+   <filetype>osc</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>EnergyPlus</software_program>
+    <identifier>7.0.0.036</identifier>
+   </version>
+   <filename>Cellular_Polyurethane_or_Polyisocyanurate_Unfaced_1_in.idf</filename>
+   <filetype>idf</filetype>
+  </file>
+ </files>
+</component>

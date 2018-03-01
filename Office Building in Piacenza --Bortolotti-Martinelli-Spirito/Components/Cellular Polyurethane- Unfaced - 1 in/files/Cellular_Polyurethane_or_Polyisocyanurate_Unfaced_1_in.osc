@@ -1,0 +1,25 @@
+
+
+OS:Material,
+  Cellular Polyurethane or Polyisocyanurate - Unfaced - 1 in.,  ! Name
+  Rough,                    ! Roughness
+  0.0254,                   ! Thickness {m}
+  0.0245,                   ! Conductivity {W/m-K}
+  24,                       ! Density {kg/m3}
+  1590;                     ! Specific Heat {J/kg-K}
+
+OS:ComponentData:Attributes,
+  OS:ComponentData 1;       ! ComponentData Name
+
+OS:ComponentData:Tags,
+  OS:ComponentData 1;       ! ComponentData Name
+
+OS:ComponentData,
+  OS:ComponentData 1,       ! Name
+  {e73faff4-8b1b-4738-a956-c65cd8a0866a},  ! UUID
+  {f71d465d-882e-4b5e-ad6c-569f3c0d1de9},  ! Version UUID
+  ,                         ! Description
+  ,                         ! Fidelity Level
+  OS_Material,              ! Type of Object 1
+  Cellular Polyurethane or Polyisocyanurate - Unfaced - 1 in.;  ! Name of Object 1
+

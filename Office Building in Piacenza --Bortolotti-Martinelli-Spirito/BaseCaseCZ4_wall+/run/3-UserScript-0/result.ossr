@@ -1,0 +1,226 @@
+<OSResult>
+  <Value>Success</Value>
+  <Info>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>Examining report requests from 1 measures</Message>
+    </LogMessage>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>Loading measure file 'C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb'</Message>
+    </LogMessage>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>arguments_json.class = Hash</Message>
+    </LogMessage>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>arguments_json = {}</Message>
+    </LogMessage>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>Adding idf object Output:Variable,
+  ,                                       !- Key Value
+  Site Outdoor Air Drybulb Temperature,   !- Variable Name
+  monthly;                                !- Reporting Frequency</Message>
+    </LogMessage>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>Adding idf object Output:Variable,
+  ,                                       !- Key Value
+  Zone Air Temperature,                   !- Variable Name
+  hourly;                                 !- Reporting Frequency</Message>
+    </LogMessage>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>Adding idf object Output:Variable,
+  ,                                       !- Key Value
+  Zone Air Relative Humidity,             !- Variable Name
+  hourly;                                 !- Reporting Frequency</Message>
+    </LogMessage>
+  </Info>
+  <FinalCondition>
+    <LogMessage>
+      <Channel>openstudio.ruleset.Report Request</Channel>
+      <Message>Added 3 output requests for reporting measures</Message>
+    </LogMessage>
+  </FinalCondition>
+  <Attributes>
+    <Attribute>
+      <UUID>{1b713dbb-4a88-443a-be9e-13ced48e3ad7}</UUID>
+      <VersionUUID>{25008a89-c9b3-4931-9e07-0b7c363fc52e}</VersionUUID>
+      <Name>measures_json</Name>
+      <Source>Report Request</Source>
+      <ValueType>String</ValueType>
+      <Value>[{"arguments":{},"measure":"C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{a67904ff-eeeb-4c77-b7ad-2cb525bc10a7}</UUID>
+      <VersionUUID>{fa23366d-e7d0-48b2-813c-cc6210fea586}</VersionUUID>
+      <Name>building_summary_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{9618f0b7-ed69-43f4-a07d-df31095f8fac}</UUID>
+      <VersionUUID>{d571efe0-340b-4fe2-9db5-d8f612e5ac57}</VersionUUID>
+      <Name>annual_overview_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{b2a8a771-ec13-4d13-9f33-fbd3064ea239}</UUID>
+      <VersionUUID>{c110a133-78f8-4eed-82d4-879b900b9404}</VersionUUID>
+      <Name>monthly_overview_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{7c4bf855-12ac-4abf-aa5f-6b67c319986d}</UUID>
+      <VersionUUID>{c05a3223-120e-4ea8-a072-0d82c58a02d3}</VersionUUID>
+      <Name>utility_bills_rates_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{40e8507b-4d17-4282-9b7f-c3e3199d1f87}</UUID>
+      <VersionUUID>{25da2644-ef10-4c96-a692-37394d89cd0a}</VersionUUID>
+      <Name>envelope_section_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{5d10f66b-4454-41ef-b1bd-f9c3288cd61f}</UUID>
+      <VersionUUID>{6a063341-ee89-44d4-8ef8-d782da4d43a3}</VersionUUID>
+      <Name>space_type_breakdown_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{797da95c-5300-405e-ae2c-d7696ba5517d}</UUID>
+      <VersionUUID>{647dc2d9-5a5a-4d9f-b3b5-b04bb21693d9}</VersionUUID>
+      <Name>space_type_details_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{a3c54c35-e814-4bd7-a5bf-96a45d395ecc}</UUID>
+      <VersionUUID>{17d52bf3-353f-4a80-a32e-e21eff38946a}</VersionUUID>
+      <Name>interior_lighting_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{279e84db-0bc9-4c61-987e-7c495ed270f8}</UUID>
+      <VersionUUID>{1b8dadd5-628a-489c-a2c2-3fa965668019}</VersionUUID>
+      <Name>plug_loads_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{e389268d-4c9c-46fc-854e-81ff4ff4626e}</UUID>
+      <VersionUUID>{48768252-1875-4d5c-9bea-4697e603f280}</VersionUUID>
+      <Name>exterior_light_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{4511b360-0185-4617-8a44-1ea5f4c8bd6a}</UUID>
+      <VersionUUID>{17763cae-f987-41e3-a1c9-f36a8da43135}</VersionUUID>
+      <Name>water_use_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{4be5fc6c-752f-4689-bbea-8cf782b57cdd}</UUID>
+      <VersionUUID>{76ed093c-7097-4000-bfcf-4d8fa072bf69}</VersionUUID>
+      <Name>hvac_load_profile</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{ae4a7981-0b89-4732-a482-93280b308a50}</UUID>
+      <VersionUUID>{75ead07e-386b-4d75-99c7-f5ca357771e4}</VersionUUID>
+      <Name>zone_condition_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{f3f2510b-df08-406e-9623-5e0fb9cb0fbe}</UUID>
+      <VersionUUID>{2c522426-8ba1-4681-b470-475b01b146f4}</VersionUUID>
+      <Name>zone_summary_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{686fc05f-fb6a-45d9-8a20-6ca0f3e00b75}</UUID>
+      <VersionUUID>{a4a2cf44-8d85-4ca9-b216-06f66a811ae6}</VersionUUID>
+      <Name>zone_equipment_detail_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{35bbec54-af5d-48a7-ba49-51574842f4d3}</UUID>
+      <VersionUUID>{c5c90ceb-6a70-44e2-8f38-393f511467e7}</VersionUUID>
+      <Name>air_loops_detail_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{c1653480-47f5-4eae-9513-c122dbb8556a}</UUID>
+      <VersionUUID>{c4d2c454-59d7-4523-ac93-b590cf372c62}</VersionUUID>
+      <Name>plant_loops_detail_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{d95cc09e-7b06-46fe-b4e1-5913ce98c09a}</UUID>
+      <VersionUUID>{c79d9529-c951-44d8-9fa6-340b5f196af5}</VersionUUID>
+      <Name>outdoor_air_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{8fd84328-89f1-463e-a4c5-0c8c791aa24d}</UUID>
+      <VersionUUID>{f7d07484-f54b-44ce-b7d6-0ebb3bfc4ee3}</VersionUUID>
+      <Name>cost_summary_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{e1a811e6-e72c-48b6-8276-1a49f05089b0}</UUID>
+      <VersionUUID>{7d12e72d-7037-4278-aaff-0ac98779592d}</VersionUUID>
+      <Name>source_energy_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{58c0c332-3081-4607-a2be-2853b8cf5150}</UUID>
+      <VersionUUID>{317642a8-76a0-47e7-bb85-55f968c07a13}</VersionUUID>
+      <Name>schedules_overview_section</Name>
+      <Source>Report Request</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+  </Attributes>
+</OSResult>

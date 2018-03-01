@@ -1,0 +1,57 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {34d92f1a-84ea-4469-b9e1-e8f5c46da20c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {34d92f1a-84ea-4469-b9e1-e8f5c46da20c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {34d92f1a-84ea-4469-b9e1-e8f5c46da20c} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {34d92f1a-84ea-4469-b9e1-e8f5c46da20c} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {ba96c4ff-2d8d-4137-9e7b-f7252213eaa4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {ba96c4ff-2d8d-4137-9e7b-f7252213eaa4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {ba96c4ff-2d8d-4137-9e7b-f7252213eaa4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {ba96c4ff-2d8d-4137-9e7b-f7252213eaa4} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {d9b08a19-ca9b-44c9-a64b-c5f8d25fb8c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {d9b08a19-ca9b-44c9-a64b-c5f8d25fb8c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {d9b08a19-ca9b-44c9-a64b-c5f8d25fb8c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {d9b08a19-ca9b-44c9-a64b-c5f8d25fb8c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2f831c52-d5b5-4fec-9dd2-4ae5ce4a8d0e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2f831c52-d5b5-4fec-9dd2-4ae5ce4a8d0e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2f831c52-d5b5-4fec-9dd2-4ae5ce4a8d0e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2f831c52-d5b5-4fec-9dd2-4ae5ce4a8d0e} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {0f23be28-1113-4391-b54f-d43dca0ef830} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {0f23be28-1113-4391-b54f-d43dca0ef830} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {0f23be28-1113-4391-b54f-d43dca0ef830} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {0f23be28-1113-4391-b54f-d43dca0ef830} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 00000058D2F2F940
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/alice/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio.RemoteBCL] <1> waitForLock timeout
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources to C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4
+[copyDir] <-1> copyDir 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources' to 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/files' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/0-Null' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/1-ModelToIdf-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/2-ExpandObjects-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/3-UserScript-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/5-EnergyPlus-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/6-UserScript-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/run/7-OpenStudioPostProcess-0' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/scripts' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/files' to 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/alice/Desktop/Master PC/Buildings System/Project/Building Project/BaseCaseCZ4/files' with source 'C:/Users/alice/AppData/Local/Temp/OpenStudio.xF8424/resources/files'

@@ -1,0 +1,60 @@
+Version,
+  7.1.0;                                  ! Version Identifier
+
+! Type: Window:Nonmetal framing
+! Description: 
+! Glazing Facade: East
+! Glazing Facade: South
+! Glazing Facade: West
+! Glazing Facade: North
+! Glazing Range Min: 0
+! Glazing Range Max: 0.4
+! Effective U-Value (SI): 1.7
+! SHGC: 0.35
+! VLT: 0.44
+! Layer 1: Theoretical Glass [204]
+WindowMaterial:Glazing,
+  Theoretical Glass [204],                !- Name
+  SpectralAverage,                        !-
+  ,                                       !-
+  0.003,                                  !- Thickness
+  0.328881,                               !- Solar Transmittance
+  0.621119,                               !- Solar Reflectance Front
+  0.621119,                               !- Solar Reflectance Back
+  0.439975,                               !- Visible Transmittance
+  0.510025,                               !- Visible Reflectance Front
+  0.510025,                               !- Visible Reflectance Back
+  0,                                      !- IR Transmittance
+  0.9,                                    !- IR Emmissivity Front
+  0.9,                                    !- IR Emmissivity Back
+  0.0071399;                              !- Conductivity
+
+Construction,
+  189.1-2009 Nonres 4B Window Nonmetal framing, !- Name
+  Theoretical Glass [204];                !- Layer 1
+
+! CostSource: Closest match from 90.1 database (1999)
+! InstallCost {$/m2}: 292.500
+! MaterialCost {$/m2}: 281.390
+! AnnualOM {$/m2}: 2.340
+! MinorOM {$/m2}: 0.000
+! MinorOMInt {years}: 1
+! MajorOM {$/m2}: 0
+! MajorOMInt {years}: 1
+! ExpectedLife {years}: 15
+! ResidualValue {$/m2}: 0.000
+ComponentCost:LineItem,
+  189.1-2009 Nonres 4B Window Nonmetal framing, !- Name
+  ,                                       !- Type
+  Construction,                           !- Line Item Type
+  189.1-2009 Nonres 4B Window Nonmetal framing, !- Item Name
+  ,                                       !- Object End Use Key
+  ,                                       !- Cost per Each {$}
+  573.890,                                !- Cost per Area {$/m2}
+  ,                                       !- Cost per Unit of Output Capacity {$/kW}
+  ,                                       !- Cost per Unit of Output Capacity per COP {$/kW}
+  ,                                       !- Cost per Volume {$/m3}
+  ,                                       !- Cost per Volume Rate {$/(m3/s)}
+  ,                                       !- Cost per Energy per Temperature Difference {$/(W/K)}
+  ;                                       !- Quantity
+

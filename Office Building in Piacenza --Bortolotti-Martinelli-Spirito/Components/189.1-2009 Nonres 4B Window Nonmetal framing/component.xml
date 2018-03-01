@@ -1,0 +1,111 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>189.1-2009 Nonres 4B Window Nonmetal framing</name>
+ <uid>7f9bf2b0-5ea7-0130-aeb1-14109fdf0b37</uid>
+ <version_id>2d372c33-fbed-442d-a5c3-850b731fb9f5</version_id>
+ <xml_checksum/>
+ <display_name/>
+ <description>Constructions based on building codes and standards. </description>
+ <modeler_description/>
+ <tags>
+  <tag>Fenestration.Window</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Standard</name>
+   <value>ASHRAE Std189</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Standard Type</name>
+   <value>Nonresidential</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Climate Zone</name>
+   <value>ASHRAE 2004:4B</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Climate Zone</name>
+   <value>ASHRAE 2004:4C</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Climate Zone</name>
+   <value>ASHRAE 2004:4A</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Construction</name>
+   <value>Window</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Construction Type</name>
+   <value>Nonmetal framing</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Overall U-factor</name>
+   <value>1.7</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>SHGC</name>
+   <value>0.35</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>VLT</name>
+   <value>0.44</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Facade</name>
+   <value>East</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Minimum Glazing Fraction</name>
+   <value>0.0</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>Maximum Glazing Fraction</name>
+   <value>0.4</value>
+   <datatype>float</datatype>
+  </attribute>
+  <attribute>
+   <name>OpenStudio Type</name>
+   <value>OS:Construction</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>EnergyPlus</software_program>
+    <identifier>7.1.0</identifier>
+   </version>
+   <filename>189.1-2009 Nonres 4B Window Nonmetal framing_v7.1.0.idf</filename>
+   <filetype>idf</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.9.3</identifier>
+   </version>
+   <filename>189.1-2009 Nonres 4B Window Nonmetal framing_v0.9.3.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>0.9.3</identifier>
+   </version>
+   <filename>189.1-2009 Nonres 4B Window Nonmetal framing_v0.9.3.osc</filename>
+   <filetype>osc</filetype>
+  </file>
+ </files>
+</component>
