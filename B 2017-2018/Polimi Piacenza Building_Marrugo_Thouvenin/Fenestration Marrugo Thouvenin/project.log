@@ -1,0 +1,45 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {ff52d066-ced4-4602-8aa5-472f84db91df} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {ff52d066-ced4-4602-8aa5-472f84db91df} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {ff52d066-ced4-4602-8aa5-472f84db91df} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {ff52d066-ced4-4602-8aa5-472f84db91df} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {e1683f0a-5706-40b4-a96e-088f6250d335} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {e1683f0a-5706-40b4-a96e-088f6250d335} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {e1683f0a-5706-40b4-a96e-088f6250d335} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {e1683f0a-5706-40b4-a96e-088f6250d335} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {3c2b7d8c-7de7-4f00-bbf4-8f60ccf5c235} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {3c2b7d8c-7de7-4f00-bbf4-8f60ccf5c235} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {3c2b7d8c-7de7-4f00-bbf4-8f60ccf5c235} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {3c2b7d8c-7de7-4f00-bbf4-8f60ccf5c235} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {5e2e2af0-b977-4bb1-8094-c79dfbb42c37} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {5e2e2af0-b977-4bb1-8094-c79dfbb42c37} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {5e2e2af0-b977-4bb1-8094-c79dfbb42c37} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {5e2e2af0-b977-4bb1-8094-c79dfbb42c37} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {ee8db7f7-36b1-48dc-b475-ce2e66085eaf} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {ee8db7f7-36b1-48dc-b475-ce2e66085eaf} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {ee8db7f7-36b1-48dc-b475-ce2e66085eaf} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {ee8db7f7-36b1-48dc-b475-ce2e66085eaf} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 0000002C029CF950
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/edoua/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 3', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 3', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'ASHRAE 189.1-2009 ExtWindow ClimateZone 3', as there is no Material object referenced by the corresponding field.
+[saveModel] <-2> Saved model to 'C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/resources to C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final/Fenestration Marrugo Thouvenin
+[copyDir] <-1> copyDir 'C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/resources' to 'C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final/Fenestration Marrugo Thouvenin'
+[copyDir] <-1> Creating directory named = 'Fenestration Marrugo Thouvenin' in parentDstDir = 'C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final'
+[synchDirStructures] <-1> Synching destination 'C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final/Fenestration Marrugo Thouvenin' with source 'C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/resources'
+[copyDir] <-1> copyDir 'C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/resources/files' to 'C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final/Fenestration Marrugo Thouvenin/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final/Fenestration Marrugo Thouvenin'
+[synchDirStructures] <-1> Synching destination 'C:/Users/edoua/Documents/Piacenza/Double Diplome/Corsi/Building systems/OpensStudioProject/Final/Fenestration Marrugo Thouvenin/files' with source 'C:/Users/edoua/AppData/Local/Temp/OpenStudio.pd1096/resources/files'

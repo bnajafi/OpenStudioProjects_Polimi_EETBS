@@ -1,0 +1,7 @@
+{
+   "created_at" : "20180209T142505Z",
+   "seed_file" : "../ACCRA_Base_Case.osm",
+   "steps" : [],
+   "updated_at" : "20180214T152755Z",
+   "weather_file" : "GHA_Accra.654720_SWERA.epw"
+}
