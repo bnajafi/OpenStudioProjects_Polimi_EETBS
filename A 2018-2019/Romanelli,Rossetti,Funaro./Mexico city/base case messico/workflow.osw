@@ -1,0 +1,7 @@
+{
+   "created_at" : "20190216T170542Z",
+   "seed_file" : "../base case messico.osm",
+   "steps" : [],
+   "updated_at" : "20190218T153841Z",
+   "weather_file" : "MEX_Mexico.City.766790_IWEC.epw"
+}
