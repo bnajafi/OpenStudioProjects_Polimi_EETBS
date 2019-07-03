@@ -1,0 +1,7 @@
+{
+   "created_at" : "20190218T170150Z",
+   "seed_file" : "../base case oslo.osm",
+   "steps" : [],
+   "updated_at" : "20190218T172002Z",
+   "weather_file" : "NOR_Oslo.Fornebu.014880_IWEC.epw"
+}

@@ -1,0 +1,2852 @@
+Shadowing Combinations
+..Solar Distribution=FullExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=SUB SURFACE 15 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=23
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 15 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 154
+..Surface=SURFACE 160
+..Surface=SURFACE 144
+..Surface=SURFACE 148
+..Surface=SURFACE 170
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 23 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=SURFACE 242
+..Surface=SURFACE 245
+..Surface=SURFACE 251
+..Surface=SURFACE 200
+..Surface=SURFACE 204
+..Surface=SURFACE 215
+..Surface=SURFACE 257
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 23 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 242
+..Surface=SURFACE 245
+..Surface=SURFACE 251
+..Surface=SURFACE 200
+..Surface=SURFACE 204
+..Surface=SURFACE 215
+..Surface=SURFACE 257
+..Surface=SURFACE 232
+..Surface=SURFACE 260
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 25 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=63
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 25 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 44
+..Surface=SURFACE 47
+..Surface=SURFACE 53
+..Surface=SURFACE 17
+..Surface=SURFACE 2
+..Surface=SURFACE 6
+..Surface=SURFACE 59
+..Surface=SURFACE 34
+..Surface=SURFACE 62
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 3 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=46
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 3 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 110
+..Surface=SURFACE 113
+..Surface=SURFACE 119
+..Surface=SURFACE 68
+..Surface=SURFACE 72
+..Surface=SURFACE 83
+..Surface=SURFACE 125
+..Surface=SURFACE 100
+..Surface=SURFACE 128
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 30 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=49
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 30 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 22
+..Surface=SURFACE 28
+..Surface=SURFACE 12
+..Surface=SURFACE 16
+..Surface=SURFACE 38
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 42 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=36
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 42 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 88
+..Surface=SURFACE 94
+..Surface=SURFACE 78
+..Surface=SURFACE 82
+..Surface=SURFACE 104
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 54 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=29
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 54 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 176
+..Surface=SURFACE 179
+..Surface=SURFACE 185
+..Surface=SURFACE 134
+..Surface=SURFACE 138
+..Surface=SURFACE 149
+..Surface=SURFACE 191
+..Surface=SURFACE 166
+..Surface=SURFACE 194
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 8 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 8 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 12 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=39
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 12 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 113
+..Surface=SURFACE 88
+..Surface=SURFACE 94
+..Surface=SURFACE 78
+..Surface=SURFACE 82
+..Surface=SURFACE 83
+..Surface=SURFACE 104
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 13 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 13 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 14 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=SURFACE 154
+..Surface=SURFACE 220
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 14 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 154
+..Surface=SURFACE 160
+..Surface=SURFACE 144
+..Surface=SURFACE 148
+..Surface=SURFACE 170
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 16 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=43
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 16 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 113
+..Surface=SURFACE 88
+..Surface=SURFACE 94
+..Surface=SURFACE 78
+..Surface=SURFACE 82
+..Surface=SURFACE 83
+..Surface=SURFACE 104
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 18 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=58
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 18 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 22
+..Surface=SURFACE 47
+..Surface=SURFACE 28
+..Surface=SURFACE 12
+..Surface=SURFACE 16
+..Surface=SURFACE 17
+..Surface=SURFACE 38
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 19 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 19 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 154
+..Surface=SURFACE 179
+..Surface=SURFACE 160
+..Surface=SURFACE 144
+..Surface=SURFACE 148
+..Surface=SURFACE 149
+..Surface=SURFACE 170
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 33 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=SURFACE 220
+..Surface=SURFACE 245
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 33 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 220
+..Surface=SURFACE 245
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 215
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 34 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=44
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 34 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 22
+..Surface=SURFACE 28
+..Surface=SURFACE 12
+..Surface=SURFACE 16
+..Surface=SURFACE 38
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 40 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=54
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 40 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 22
+..Surface=SURFACE 47
+..Surface=SURFACE 28
+..Surface=SURFACE 12
+..Surface=SURFACE 16
+..Surface=SURFACE 17
+..Surface=SURFACE 38
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 44 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=31
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 44 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE 88
+..Surface=SURFACE 94
+..Surface=SURFACE 78
+..Surface=SURFACE 82
+..Surface=SURFACE 104
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 51 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=SURFACE 220
+..Surface=SURFACE 245
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 215
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 51 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 220
+..Surface=SURFACE 245
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 215
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 9 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=28
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 9 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 154
+..Surface=SURFACE 179
+..Surface=SURFACE 160
+..Surface=SURFACE 144
+..Surface=SURFACE 148
+..Surface=SURFACE 149
+..Surface=SURFACE 170
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 2 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=SURFACE 242
+..Surface=SURFACE 251
+..Surface=SURFACE 200
+..Surface=SURFACE 204
+..Surface=SURFACE 254
+..Surface=SURFACE 257
+..Surface=SURFACE 232
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 2 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 242
+..Surface=SURFACE 251
+..Surface=SURFACE 200
+..Surface=SURFACE 204
+..Surface=SURFACE 254
+..Surface=SURFACE 257
+..Surface=SURFACE 232
+..Surface=SURFACE 235
+..Surface=SURFACE 260
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 27 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=46
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 27 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 110
+..Surface=SURFACE 119
+..Surface=SURFACE 68
+..Surface=SURFACE 72
+..Surface=SURFACE 122
+..Surface=SURFACE 125
+..Surface=SURFACE 100
+..Surface=SURFACE 103
+..Surface=SURFACE 128
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 32 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=29
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 32 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 176
+..Surface=SURFACE 185
+..Surface=SURFACE 134
+..Surface=SURFACE 138
+..Surface=SURFACE 188
+..Surface=SURFACE 191
+..Surface=SURFACE 166
+..Surface=SURFACE 169
+..Surface=SURFACE 194
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 47 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=63
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 47 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SURFACE 44
+..Surface=SURFACE 53
+..Surface=SURFACE 2
+..Surface=SURFACE 6
+..Surface=SURFACE 56
+..Surface=SURFACE 59
+..Surface=SURFACE 34
+..Surface=SURFACE 37
+..Surface=SURFACE 62
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 10 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=43
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 10 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 88
+..Surface=SURFACE 94
+..Surface=SURFACE 78
+..Surface=SURFACE 82
+..Surface=SURFACE 122
+..Surface=SURFACE 103
+..Surface=SURFACE 104
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 38 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 254
+..Surface=SURFACE 235
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 38 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 254
+..Surface=SURFACE 235
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 4 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=23
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=SURFACE 154
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 4 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 154
+..Surface=SURFACE 160
+..Surface=SURFACE 144
+..Surface=SURFACE 148
+..Surface=SURFACE 188
+..Surface=SURFACE 169
+..Surface=SURFACE 170
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 45 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 45 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 220
+..Surface=SURFACE 226
+..Surface=SURFACE 210
+..Surface=SURFACE 214
+..Surface=SURFACE 254
+..Surface=SURFACE 235
+..Surface=SURFACE 236
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 46 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=58
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 46 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 22
+..Surface=SURFACE 28
+..Surface=SURFACE 12
+..Surface=SURFACE 16
+..Surface=SURFACE 56
+..Surface=SURFACE 37
+..Surface=SURFACE 38
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 55 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=28
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 55 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 154
+..Surface=SURFACE 160
+..Surface=SURFACE 144
+..Surface=SURFACE 148
+..Surface=SURFACE 188
+..Surface=SURFACE 169
+..Surface=SURFACE 170
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 58 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=53
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 58 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 22
+..Surface=SURFACE 28
+..Surface=SURFACE 12
+..Surface=SURFACE 16
+..Surface=SURFACE 56
+..Surface=SURFACE 37
+..Surface=SURFACE 38
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUB SURFACE 6 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=38
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SUB SURFACE 6 - OVERHANG is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE 88
+..Surface=SURFACE 94
+..Surface=SURFACE 78
+..Surface=SURFACE 82
+..Surface=SURFACE 122
+..Surface=SURFACE 103
+..Surface=SURFACE 104
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 110 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 50
+==================================
+Surface=SUB SURFACE 50 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 111 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 112 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 113 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 3
+==================================
+Surface=SUB SURFACE 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 116 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 117 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 118 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 119 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 31
+==================================
+Surface=SUB SURFACE 31 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 154 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 15
+==================================
+Surface=SUB SURFACE 15 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 155 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 156 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 157 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 176 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 20
+==================================
+Surface=SUB SURFACE 20 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 177 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 178 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 179 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 54
+==================================
+Surface=SUB SURFACE 54 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 182 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 183 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 184 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 185 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 37
+==================================
+Surface=SUB SURFACE 37 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 22 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 30
+==================================
+Surface=SUB SURFACE 30 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 220 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 8
+==================================
+Surface=SUB SURFACE 8 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 221 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 222 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 223 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 23 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 24 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 242 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 52
+==================================
+Surface=SUB SURFACE 52 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 243 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 244 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 245 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 23
+==================================
+Surface=SUB SURFACE 23 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 248 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 249 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 25 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 250 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 251 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 17
+==================================
+Surface=SUB SURFACE 17 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 44 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 21
+==================================
+Surface=SUB SURFACE 21 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 45 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 46 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 47 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 40 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 25
+==================================
+Surface=SUB SURFACE 25 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 50 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 51 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 52 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 53 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 11
+==================================
+Surface=SUB SURFACE 11 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 88 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 42
+==================================
+Surface=SUB SURFACE 42 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 89 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 90 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 91 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 21 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 43 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 49 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 224 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 246 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 252 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 109 - SURFACE 48 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 114 - SURFACE 175 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 115 - SURFACE 54 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 120 - SURFACE 181 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 153 - SURFACE 92 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 158 - SURFACE 219 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 180 - SURFACE 241 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 186 - SURFACE 247 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 26 - SURFACE 87 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 160 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 161 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 162 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 163 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 226 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 227 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 228 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 229 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 28 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 29 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 30 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 31 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 94 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 95 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 96 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 97 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 27 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 230 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 159 - SURFACE 98 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 164 - SURFACE 225 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 32 - SURFACE 93 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 10 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 11 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 12 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 34
+==================================
+Surface=SUB SURFACE 34 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 13 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 134 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 53
+==================================
+Surface=SUB SURFACE 53 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 135 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 136 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 137 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 138 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 1
+==================================
+Surface=SUB SURFACE 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 139 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 14 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 140 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 141 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 142 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 143 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 144 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 14
+==================================
+Surface=SUB SURFACE 14 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 145 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 146 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 147 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 148 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 19
+==================================
+Surface=SUB SURFACE 19 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 149 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 9
+==================================
+Surface=SUB SURFACE 9 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 15 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 150 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 151 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 16 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 40
+==================================
+Surface=SUB SURFACE 40 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 17 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 40 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 18
+==================================
+Surface=SUB SURFACE 18 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 18 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 19 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 56
+==================================
+Surface=SUB SURFACE 56 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 200 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 26
+==================================
+Surface=SUB SURFACE 26 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 201 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 202 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 203 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 204 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 29
+==================================
+Surface=SUB SURFACE 29 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 205 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 206 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 207 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 208 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 209 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 210 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 13
+==================================
+Surface=SUB SURFACE 13 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 211 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 212 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 213 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 214 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 51
+==================================
+Surface=SUB SURFACE 51 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 215 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 33
+==================================
+Surface=SUB SURFACE 33 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 216 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 217 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 6 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 59
+==================================
+Surface=SUB SURFACE 59 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 68 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 36
+==================================
+Surface=SUB SURFACE 36 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 69 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 70 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 71 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 72 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 22
+==================================
+Surface=SUB SURFACE 22 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 73 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 74 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 75 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 76 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 77 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 78 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 44
+==================================
+Surface=SUB SURFACE 44 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 79 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 8 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 80 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 81 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 82 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 12
+==================================
+Surface=SUB SURFACE 12 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 83 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 16
+==================================
+Surface=SUB SURFACE 16 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 84 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 85 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 9 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 218 is used as Receiving Surface in calculations and is non-convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 133 - SURFACE 86 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 152 - SURFACE 199 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 20 - SURFACE 67 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 122 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 10 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=Mir-SUB SURFACE 55 - OVERHANG
+..Surface=Mir-SUB SURFACE 6 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 27
+==================================
+Surface=SUB SURFACE 27 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 123 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 124 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 125 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 28
+==================================
+Surface=SUB SURFACE 28 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 188 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=Mir-SUB SURFACE 55 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 32
+==================================
+Surface=SUB SURFACE 32 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 189 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 190 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 191 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 5
+==================================
+Surface=SUB SURFACE 5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 254 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 2
+==================================
+Surface=SUB SURFACE 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 255 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 256 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 257 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 24
+==================================
+Surface=SUB SURFACE 24 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 56 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+..Surface=Mir-SUB SURFACE 10 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=Mir-SUB SURFACE 46 - OVERHANG
+..Surface=Mir-SUB SURFACE 55 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 47
+==================================
+Surface=SUB SURFACE 47 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 57 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 58 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 59 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 57
+==================================
+Surface=SUB SURFACE 57 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 55 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 258 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 121 - SURFACE 60 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 126 - SURFACE 187 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 192 - SURFACE 253 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 100 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 43
+==================================
+Surface=SUB SURFACE 43 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 101 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 102 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 103 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 10 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=Mir-SUB SURFACE 55 - OVERHANG
+..Surface=Mir-SUB SURFACE 6 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 10
+==================================
+Surface=SUB SURFACE 10 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 104 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 44 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 6
+==================================
+Surface=SUB SURFACE 6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 105 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 106 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 107 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 166 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 39
+==================================
+Surface=SUB SURFACE 39 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 167 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 168 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 169 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=Mir-SUB SURFACE 55 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 55
+==================================
+Surface=SUB SURFACE 55 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 170 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 9 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 4
+==================================
+Surface=SUB SURFACE 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 171 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 172 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 173 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 232 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 60
+==================================
+Surface=SUB SURFACE 60 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 233 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 234 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 235 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 45
+==================================
+Surface=SUB SURFACE 45 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 236 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 33 - OVERHANG
+..Surface=Mir-SUB SURFACE 51 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 38
+==================================
+Surface=SUB SURFACE 38 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 237 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 238 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 239 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 34 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 7
+==================================
+Surface=SUB SURFACE 7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 35 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 36 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 37 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+..Surface=Mir-SUB SURFACE 10 - OVERHANG
+..Surface=Mir-SUB SURFACE 38 - OVERHANG
+..Surface=Mir-SUB SURFACE 4 - OVERHANG
+..Surface=Mir-SUB SURFACE 45 - OVERHANG
+..Surface=Mir-SUB SURFACE 46 - OVERHANG
+..Surface=Mir-SUB SURFACE 55 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 46
+==================================
+Surface=SUB SURFACE 46 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 38 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-SUB SURFACE 15 - OVERHANG
+..Surface=Mir-SUB SURFACE 30 - OVERHANG
+..Surface=Mir-SUB SURFACE 42 - OVERHANG
+..Surface=Mir-SUB SURFACE 8 - OVERHANG
+..Surface=Mir-SUB SURFACE 12 - OVERHANG
+..Surface=Mir-SUB SURFACE 13 - OVERHANG
+..Surface=Mir-SUB SURFACE 14 - OVERHANG
+..Surface=Mir-SUB SURFACE 16 - OVERHANG
+..Surface=Mir-SUB SURFACE 18 - OVERHANG
+..Surface=Mir-SUB SURFACE 19 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 58
+==================================
+Surface=SUB SURFACE 58 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 39 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 40 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 41 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 33 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 240 is used as Receiving Surface in calculations and is non-convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 108 - SURFACE 165 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 174 - SURFACE 231 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 42 - SURFACE 99 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 128 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 49
+==================================
+Surface=SUB SURFACE 49 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 129 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 130 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 131 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 194 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 48
+==================================
+Surface=SUB SURFACE 48 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 195 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 196 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 197 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 260 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 41
+==================================
+Surface=SUB SURFACE 41 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 261 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 262 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 263 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 62 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-SUB SURFACE 23 - OVERHANG
+..Surface=Mir-SUB SURFACE 25 - OVERHANG
+..Surface=Mir-SUB SURFACE 3 - OVERHANG
+..Surface=Mir-SUB SURFACE 54 - OVERHANG
+..Surface=Mir-SUB SURFACE 2 - OVERHANG
+..Surface=Mir-SUB SURFACE 27 - OVERHANG
+..Surface=Mir-SUB SURFACE 32 - OVERHANG
+..Surface=Mir-SUB SURFACE 47 - OVERHANG
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUB SURFACE 35
+==================================
+Surface=SUB SURFACE 35 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 63 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 64 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 65 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 61 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE 264 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 127 - SURFACE 66 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 132 - SURFACE 193 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=MERGED SURFACE 198 - SURFACE 259 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
