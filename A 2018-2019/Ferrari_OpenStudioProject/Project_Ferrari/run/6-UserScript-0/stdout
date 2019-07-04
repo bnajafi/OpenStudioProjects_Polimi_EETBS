@@ -1,0 +1,10 @@
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+Script executing from: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0
+Found UserScript 'OpenStudio Results'.
+result = true
+Processed 1 base script and 0 merged scripts

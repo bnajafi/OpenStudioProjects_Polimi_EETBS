@@ -1,0 +1,1715 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {a45e25e7-9ab7-47a3-b179-9670c1ac7555} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {a45e25e7-9ab7-47a3-b179-9670c1ac7555} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {a45e25e7-9ab7-47a3-b179-9670c1ac7555} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {a45e25e7-9ab7-47a3-b179-9670c1ac7555} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {66994efd-de15-4d3d-992a-a83722a7e9f1} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {66994efd-de15-4d3d-992a-a83722a7e9f1} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {66994efd-de15-4d3d-992a-a83722a7e9f1} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {66994efd-de15-4d3d-992a-a83722a7e9f1} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {7e502635-2940-4be3-8600-9d674409f04e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {7e502635-2940-4be3-8600-9d674409f04e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {7e502635-2940-4be3-8600-9d674409f04e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {7e502635-2940-4be3-8600-9d674409f04e} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {90b17786-3a42-4b59-aaa7-2fa13426135a} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {90b17786-3a42-4b59-aaa7-2fa13426135a} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {90b17786-3a42-4b59-aaa7-2fa13426135a} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {90b17786-3a42-4b59-aaa7-2fa13426135a} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {25410261-3311-4dda-ab16-fe3096e4ca5b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {25410261-3311-4dda-ab16-fe3096e4ca5b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {25410261-3311-4dda-ab16-fe3096e4ca5b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {25410261-3311-4dda-ab16-fe3096e4ca5b} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 0000005CB6AFF540
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Mirko/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1982-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw'. Data will be treated as typical (TMY)
+[openstudio::RunView] <-2> playButtonClicked 1
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Ruby D:/OpenStudio 1.11.0/ruby-install/ruby/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver D:/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver D:/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Radiance D:/OpenStudio 1.11.0/share/openstudio/Radiance/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver D:/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver D:/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: EnergyPlus D:/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0 8.5.0.c87e61b44b
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver D:/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver D:/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.RubyJobUtils] <1> Input file type is "Unknown" unable to add it.
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJobUtils] <-1> Adding input file of type: IDF to be copied to in.idf
+[openstudio.runmanager.RubyJobUtils] <-1> Copying all required files from IDF to IDF
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.Workflow] <-2> Creating workflow with outdir C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run infile C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm epwlocation 
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Workflow] <-2> Workflow contains file C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> Analyzing file for URLs to update C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> time to load idf: 0.109
+[openstudio.runmanager.NormalizeURLs] <-2> Successfully loaded idf file into workspace containing 1319 objects
+[utilities.idf.Workspace] <-2> Url found in file: file:files/Pisa.epw
+[utilities.idf.Workspace] <-2> Url is relative or 'file'
+[utilities.idf.Workspace] <-2> Source URL:  for original URL: file:files/Pisa.epw
+[utilities.idf.Workspace] <1> URL Found in IDF: file:files/Pisa.epw but no source could be located.
+[openstudio.runmanager.NormalizeURLs] <-2> time to locate URL's: 0.01
+[openstudio.runmanager.NormalizeURLs] <-1> No URLs found in input
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {286504ee-89c5-4cae-98e3-a2b2f35ad6cd} Null Job
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49} ModelToIdf
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a} ExpandObjects
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {9c63c8a2-c7bb-4d2a-a25c-c357638c6988} EnergyPlusPreProcess
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0} EnergyPlus
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {b43db53d-34b2-4bc1-a127-9e9576770e00} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {ea45a5c7-d608-46aa-a082-d11c40865e03} OpenStudioPostProcess
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to user_script.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to resources/os_lib_schedules.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to resources/report.html.erb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to resources/os_lib_reporting.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 0
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {286504ee-89c5-4cae-98e3-a2b2f35ad6cd} Null Job
+[openstudio.runmanager.Null] <-1> Null starting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49} ModelToIdf
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, filename: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, outdir: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {286504ee-89c5-4cae-98e3-a2b2f35ad6cd} 2019-Jun-30 15:50:30
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {286504ee-89c5-4cae-98e3-a2b2f35ad6cd}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.11.0.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 1319 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1319 objects in IDF form.
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1319 objects in Model form.
+[openstudio.runmanager.ModelToIdf] <-2> Looking for weather file at ModelObject specified location: files/Pisa.epw
+[openstudio.runmanager.ModelToIdf] <-2> Completed weatherfile location: files/Pisa.epw
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM base path to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM parent path / resources to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Final selected weatherFile: file:///C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 65 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 65 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 61 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 61 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 61 fields.  Size of vertices is 18.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 29 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 29 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 25 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 25 fields.  Size of vertices is 6.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 25 fields.  Size of vertices is 6.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - OpenOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - OpenOffice - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <0> No People found in ThermalZone 'Thermal Zone 4', outdoor air per person will not be added
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.energyplus.ForwardTranslator] <0> OS_ProgramControl is not currently translated
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Discrete', points to an object named OnOff from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always Off Discrete', points to an object named OnOff 1 from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Continuous', points to an object named Fractional 1 from field 1, but that object cannot be located.
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49} 2019-Jun-30 15:50:30
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a} ExpandObjects
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile in.idf
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {fc0566cf-e0e6-432d-b1a4-f4e32bd8df49}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: expandobjects
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: PISA
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: expandobjects version: 8.5.-.-
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Tools] <-2> getTool called: expandobjects 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: expandobjects version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0/in.idf to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0/in.idf -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: D:/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/ExpandObjects.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a} 2019-Jun-30 15:50:32
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile expanded.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {7b1ac5bd-40d6-4542-8954-f4b658bdef7a}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf to: in-2.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw' to 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw' to 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to be installed at: in/files/Pisa.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw' to 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw' to 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to be installed at: in/files/Pisa.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in/files/Pisa.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in/files/Pisa.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: D:/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: D:/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentName=measures_json
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentValue=[{"arguments":{},"measure":"D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {9c63c8a2-c7bb-4d2a-a25c-c357638c6988} EnergyPlusPreProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87} 2019-Jun-30 15:50:34
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile example.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {be24b67d-a1dd-4442-96d7-5dcaa7b59f87}
+[openstudio.runmanager.EnergyPlusPreProcessJob] <-1> EnergyPlusPreProcess starting, outdir: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {9c63c8a2-c7bb-4d2a-a25c-c357638c6988} 2019-Jun-30 15:50:45
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0} EnergyPlus
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {9c63c8a2-c7bb-4d2a-a25c-c357638c6988}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: energyplus
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: PISA
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: energyplus version: 8.5.-.-
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Tools] <-2> getTool called: energyplus 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: energyplus version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: D:/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/energyplus.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting error file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {b43db53d-34b2-4bc1-a127-9e9576770e00} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0} 2019-Jun-30 15:50:45
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.audit
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.bnd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eio
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.end
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eso
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.rdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.shd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.sql
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplustbl.htm
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile sqlite.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {509dcac5-5c8d-4530-9e4b-cb2b8c5ba5b0}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_schedules.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/report.html.erb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_reporting.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to be installed at: in/files/Pisa.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to be installed at: in/files/Pisa.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in/files/Pisa.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files/Pisa.epw -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in/files/Pisa.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb -> C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: D:/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: D:/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusSqlFilePath=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {b43db53d-34b2-4bc1-a127-9e9576770e00} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {ea45a5c7-d608-46aa-a082-d11c40865e03} OpenStudioPostProcess
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, filename: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, outdir: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {b43db53d-34b2-4bc1-a127-9e9576770e00} 2019-Jun-30 15:51:31
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.html
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {b43db53d-34b2-4bc1-a127-9e9576770e00}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.energyplus.SqlFile] <-2> Dictionary Built
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 3 in Object of type 'OS:Construction' and named 'First option', as there is no Material object referenced by the corresponding field.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Building.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Facility.
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in/files/Pisa.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/report.html
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in/files/Pisa.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0/report.xml
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {ea45a5c7-d608-46aa-a082-d11c40865e03} 2019-Jun-30 15:51:43
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources to C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/files' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/0-Null' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/1-ModelToIdf-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/2-ExpandObjects-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/3-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/5-EnergyPlus-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/6-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/scripts' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/files' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/0-Null' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/1-ModelToIdf-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/2-ExpandObjects-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/3-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/5-EnergyPlus-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/6-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/0-Null' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/0-Null' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/1-ModelToIdf-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/2-ExpandObjects-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/3-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/5-EnergyPlus-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/6-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/scripts' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/scripts' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/scripts'
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 1
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run.db) Persisting job status for {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.xml
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {ea45a5c7-d608-46aa-a082-d11c40865e03}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources to C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/files' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/0-Null' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/1-ModelToIdf-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/2-ExpandObjects-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/3-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/5-EnergyPlus-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/6-UserScript-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/scripts' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files' to 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Mirko/Desktop/Office_Ferrari/Project_Ferrari/files' with source 'C:/Users/Mirko/AppData/Local/Temp/OpenStudio.y23212/resources/files'
