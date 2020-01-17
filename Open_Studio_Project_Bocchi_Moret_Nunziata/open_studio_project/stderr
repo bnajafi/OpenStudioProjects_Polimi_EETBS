@@ -1,0 +1,18 @@
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/version.rb:4: warning: already initialized constant JSON::VERSION
+:/ruby/2.2.0/json/version.rb:3: warning: previous definition of VERSION was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/version.rb:5: warning: already initialized constant JSON::VERSION_ARRAY
+:/ruby/2.2.0/json/version.rb:4: warning: previous definition of VERSION_ARRAY was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/version.rb:6: warning: already initialized constant JSON::VERSION_MAJOR
+:/ruby/2.2.0/json/version.rb:5: warning: previous definition of VERSION_MAJOR was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/version.rb:7: warning: already initialized constant JSON::VERSION_MINOR
+:/ruby/2.2.0/json/version.rb:6: warning: previous definition of VERSION_MINOR was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/version.rb:8: warning: already initialized constant JSON::VERSION_BUILD
+:/ruby/2.2.0/json/version.rb:7: warning: previous definition of VERSION_BUILD was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/common.rb:100: warning: already initialized constant JSON::NaN
+:/ruby/2.2.0/json/common.rb:99: warning: previous definition of NaN was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/common.rb:102: warning: already initialized constant JSON::Infinity
+:/ruby/2.2.0/json/common.rb:101: warning: previous definition of Infinity was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/common.rb:104: warning: already initialized constant JSON::MinusInfinity
+:/ruby/2.2.0/json/common.rb:103: warning: previous definition of MinusInfinity was here
+:/ruby/2.2.0/gems/json_pure-2.2.0/lib/json/common.rb:129: warning: already initialized constant JSON::UnparserError
+:/ruby/2.2.0/json/common.rb:128: warning: previous definition of UnparserError was here
