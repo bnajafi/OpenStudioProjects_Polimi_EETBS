@@ -1,0 +1,995 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {d7c7c76b-eb7d-440b-a853-bc203eaae990} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {d7c7c76b-eb7d-440b-a853-bc203eaae990} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {d7c7c76b-eb7d-440b-a853-bc203eaae990} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {d7c7c76b-eb7d-440b-a853-bc203eaae990} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {f60eca8d-214b-4698-b28d-77f805325644} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {f60eca8d-214b-4698-b28d-77f805325644} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {f60eca8d-214b-4698-b28d-77f805325644} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {f60eca8d-214b-4698-b28d-77f805325644} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {74ca9285-4df5-49cf-9fef-0be0ca17659f} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {74ca9285-4df5-49cf-9fef-0be0ca17659f} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {74ca9285-4df5-49cf-9fef-0be0ca17659f} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {74ca9285-4df5-49cf-9fef-0be0ca17659f} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {71787e1f-b693-4d40-bbc6-19119c947a28} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {71787e1f-b693-4d40-bbc6-19119c947a28} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {71787e1f-b693-4d40-bbc6-19119c947a28} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {71787e1f-b693-4d40-bbc6-19119c947a28} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {08fd1045-61b2-4495-8fa8-040ba68cf909} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {08fd1045-61b2-4495-8fa8-040ba68cf909} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {08fd1045-61b2-4495-8fa8-040ba68cf909} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {08fd1045-61b2-4495-8fa8-040ba68cf909} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000CF1DCFF390
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Nicoletta/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw'. Data will be treated as typical (TMY)
+[utilities.idf.Workspace] <-1> Renamed Object of type 'OS:WindowMaterial:Glazing' and named 'Theoretical Glass [167]' to 'Theoretical Glass [167] 1' to avoid a name conflict upon WorkspaceObject addition.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'CATANIA EXT WINDOW', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'CATANIA EXT WINDOW', as there is no Material object referenced by the corresponding field.
+[openstudio.model.LayeredConstruction] <0> Skipping layer 0 in Object of type 'OS:Construction' and named 'CATANIA EXT WINDOW', as there is no Material object referenced by the corresponding field.
+[openstudio::RunView] <-2> playButtonClicked 1
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources to C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Ruby C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Radiance C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: EnergyPlus C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0 8.5.0.c87e61b44b
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.RubyJobUtils] <1> Input file type is "Unknown" unable to add it.
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJobUtils] <-1> Adding input file of type: IDF to be copied to in.idf
+[openstudio.runmanager.RubyJobUtils] <-1> Copying all required files from IDF to IDF
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.Workflow] <-2> Creating workflow with outdir C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run infile C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm epwlocation 
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Workflow] <-2> Workflow contains file C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> Analyzing file for URLs to update C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> time to load idf: 0.073
+[openstudio.runmanager.NormalizeURLs] <-2> Successfully loaded idf file into workspace containing 881 objects
+[utilities.idf.Workspace] <-2> Url found in file: file:files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[utilities.idf.Workspace] <-2> Url is relative or 'file'
+[utilities.idf.Workspace] <-2> Source URL:  for original URL: file:files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[utilities.idf.Workspace] <1> URL Found in IDF: file:files/ITA_Catania-Fontanarossa.164600_IGDG.epw but no source could be located.
+[openstudio.runmanager.NormalizeURLs] <-2> time to locate URL's: 0
+[openstudio.runmanager.NormalizeURLs] <-1> No URLs found in input
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {dbc00fd6-2248-4311-86f7-e6d276e4a1d2} Null Job
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {22245392-5755-4db4-a186-925d0455fc33} ModelToIdf
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {21e99f69-9fda-451e-9067-e37c97d12494} ExpandObjects
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {69dbd630-9de7-41ec-b6cc-12ccf087b99e} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {234a958e-65cd-44ed-92a0-78a778cca2cf} EnergyPlusPreProcess
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {88929397-4904-4ff9-8fa0-16c854fa11c8} EnergyPlus
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {30c7f71c-7111-4037-a69b-3d75ead48cd6} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf} OpenStudioPostProcess
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to user_script.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to resources/os_lib_schedules.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to resources/report.html.erb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to resources/os_lib_reporting.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 0
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {dbc00fd6-2248-4311-86f7-e6d276e4a1d2} Null Job
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {dbc00fd6-2248-4311-86f7-e6d276e4a1d2} Null Job
+[openstudio.runmanager.Null] <-1> Null starting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {22245392-5755-4db4-a186-925d0455fc33} ModelToIdf
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, filename: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, outdir: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {dbc00fd6-2248-4311-86f7-e6d276e4a1d2} 2020-Jan-13 17:26:20
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.11.0.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {dbc00fd6-2248-4311-86f7-e6d276e4a1d2}
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 881 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 881 objects in IDF form.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 881 objects in Model form.
+[openstudio.runmanager.ModelToIdf] <-2> Looking for weather file at ModelObject specified location: files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.ModelToIdf] <-2> Completed weatherfile location: files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM base path to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM parent path / resources to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Final selected weatherFile: file:///C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.energyplus.ForwardTranslator] <-1> Surfaces 'Surface 6', and 'Surface 31' reference different constructions, choosing 'Surface 6''s construction based on search distance.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - OpenOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <0> OS_ProgramControl is not currently translated
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Discrete', points to an object named OnOff from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always Off Discrete', points to an object named OnOff 1 from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Continuous', points to an object named Fractional 1 from field 1, but that object cannot be located.
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {22245392-5755-4db4-a186-925d0455fc33} 2020-Jan-13 17:26:20
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {21e99f69-9fda-451e-9067-e37c97d12494} ExpandObjects
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile in.idf
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {22245392-5755-4db4-a186-925d0455fc33}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: expandobjects
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Catania-Fontanarossa
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: expandobjects version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: expandobjects 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: expandobjects version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0/in.idf to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0/in.idf -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/ExpandObjects.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {21e99f69-9fda-451e-9067-e37c97d12494} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {69dbd630-9de7-41ec-b6cc-12ccf087b99e} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {21e99f69-9fda-451e-9067-e37c97d12494} 2020-Jan-13 17:26:21
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile expanded.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {21e99f69-9fda-451e-9067-e37c97d12494}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf to: in-2.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw' to 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw' to 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to be installed at: in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw' to 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw' to 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to be installed at: in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentName=measures_json
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentValue=[{"arguments":{},"measure":"C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {69dbd630-9de7-41ec-b6cc-12ccf087b99e} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {234a958e-65cd-44ed-92a0-78a778cca2cf} EnergyPlusPreProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {69dbd630-9de7-41ec-b6cc-12ccf087b99e} 2020-Jan-13 17:26:21
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.EnergyPlusPreProcessJob] <-1> EnergyPlusPreProcess starting, outdir: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile example.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {69dbd630-9de7-41ec-b6cc-12ccf087b99e}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {88929397-4904-4ff9-8fa0-16c854fa11c8} EnergyPlus
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {234a958e-65cd-44ed-92a0-78a778cca2cf} 2020-Jan-13 17:26:31
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: energyplus
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Catania-Fontanarossa
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: energyplus version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: energyplus 8.5.-.-
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: energyplus version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {234a958e-65cd-44ed-92a0-78a778cca2cf}
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/energyplus.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {88929397-4904-4ff9-8fa0-16c854fa11c8} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting error file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {30c7f71c-7111-4037-a69b-3d75ead48cd6} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {88929397-4904-4ff9-8fa0-16c854fa11c8} 2020-Jan-13 17:26:31
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.audit
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.bnd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eio
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.end
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eso
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.rdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.shd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.sql
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplustbl.htm
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile sqlite.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {88929397-4904-4ff9-8fa0-16c854fa11c8}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_schedules.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/report.html.erb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_reporting.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to be installed at: in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to be installed at: in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files/ITA_Catania-Fontanarossa.164600_IGDG.epw -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb -> C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusSqlFilePath=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {30c7f71c-7111-4037-a69b-3d75ead48cd6} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf} OpenStudioPostProcess
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, filename: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, outdir: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {30c7f71c-7111-4037-a69b-3d75ead48cd6} 2020-Jan-13 17:26:45
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.energyplus.SqlFile] <-2> Dictionary Built
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.html
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {30c7f71c-7111-4037-a69b-3d75ead48cd6}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Building.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Facility.
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/report.html
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in/files/ITA_Catania-Fontanarossa.164600_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0/report.xml
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf} 2020-Jan-13 17:26:57
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources to C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 1
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run.db) Persisting job status for {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.xml
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {8289e8ce-c9ca-48cf-b056-f12ea4a70bcf}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources to C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0/eplusout.sql 
+[saveModel] <-2> Saved model to 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources to C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/0-Null' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/1-ModelToIdf-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/2-ExpandObjects-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/3-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/5-EnergyPlus-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/6-UserScript-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/scripts' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files' to 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Nicoletta/Desktop/Building Systems/Project_Catania/files' with source 'C:/Users/Nicoletta/AppData/Local/Temp/OpenStudio.yK1084/resources/files'
