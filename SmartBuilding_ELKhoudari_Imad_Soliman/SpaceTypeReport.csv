@@ -1,0 +1,23 @@
+Building, Space Type, Floor Area (ft^2), Lighting Power Density (W/ft^2), Electric Equipment Density (W/ft^2), People Density (people/1000*ft^2)
+Commercial Building 1, 189.1-2009 - Office - OpenOffice - CZ4-8, 19375.02, 1.1, 1.19, 19.21
+
+Building Story, Floor Area (ft^2), Number of Spaces
+Building Story 1, 6458.34, 2
+Building Story 2, 6458.34, 2
+Building Story 3, 6458.34, 2
+
+Space Type, Floor Area (ft^2), Number of Spaces
+189.1-2009 - Office - BreakRoom - CZ1-3, 3229.17, 1
+189.1-2009 - Office - ClosedOffice - CZ1-3, 3229.17, 1
+189.1-2009 - Office - Conference - CZ1-3, 3229.17, 1
+189.1-2009 - Office - Elec/MechRoom - CZ1-3, 3229.17, 1
+189.1-2009 - Office - OpenOffice - CZ1-3, 6458.34, 2
+
+Space, Space Type, Thermal Zone, Building Story, Floor Area (ft^2), Lighting Power Density (W/ft^2), Electric Equipment Density (W/ft^2), People Density (people/1000*ft^2)
+Space 302, 189.1-2009 - Office - BreakRoom - CZ1-3, Thermal Zone 6, Building Story 3, 3229.17, 1.08, 4.46, 50.0
+Space 201, 189.1-2009 - Office - ClosedOffice - CZ1-3, Thermal Zone 3, Building Story 2, 3229.17, 0.99, 0.64, 4.75
+Space 202, 189.1-2009 - Office - Conference - CZ1-3, Thermal Zone 4, Building Story 2, 3229.17, 1.17, 0.37, 50.0
+Space 301, 189.1-2009 - Office - Elec/MechRoom - CZ1-3, Thermal Zone 5, Building Story 3, 3229.17, 1.35, 0.27, 0.0
+Space 101, 189.1-2009 - Office - OpenOffice - CZ1-3, Thermal Zone 1, Building Story 1, 3229.17, 0.99, 0.71, 5.25
+Space 102, 189.1-2009 - Office - OpenOffice - CZ1-3, Thermal Zone 2, Building Story 1, 3229.17, 0.99, 0.71, 5.25
+
